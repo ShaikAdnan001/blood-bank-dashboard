@@ -1,0 +1,3108 @@
+blood_bank_id,state,category,licence_year,has_component_facility,has_apheresis
+BB00001,Uttar Pradesh,Private,2007,False,False
+BB00002,Uttar Pradesh,Private,2006,False,True
+BB00003,Uttar Pradesh,NGO/Charitable,2000,False,False
+BB00004,Uttar Pradesh,NGO/Charitable,1998,True,True
+BB00005,Uttar Pradesh,Private,2015,True,False
+BB00006,Uttar Pradesh,Government,2015,True,False
+BB00007,Uttar Pradesh,Private,2012,False,False
+BB00008,Uttar Pradesh,NGO/Charitable,2014,True,True
+BB00009,Uttar Pradesh,Government,2005,True,False
+BB00010,Uttar Pradesh,NGO/Charitable,2013,False,False
+BB00011,Uttar Pradesh,Red Cross,2008,False,False
+BB00012,Uttar Pradesh,NGO/Charitable,2013,True,True
+BB00013,Uttar Pradesh,NGO/Charitable,1998,True,False
+BB00014,Uttar Pradesh,Private,2015,True,False
+BB00015,Uttar Pradesh,Government,1996,True,False
+BB00016,Uttar Pradesh,Government,2008,False,False
+BB00017,Uttar Pradesh,Government,2012,True,False
+BB00018,Uttar Pradesh,Red Cross,2009,True,False
+BB00019,Uttar Pradesh,NGO/Charitable,2015,False,False
+BB00020,Uttar Pradesh,Government,2001,True,False
+BB00021,Uttar Pradesh,Government,2007,True,False
+BB00022,Uttar Pradesh,NGO/Charitable,2007,False,False
+BB00023,Uttar Pradesh,NGO/Charitable,2009,True,False
+BB00024,Uttar Pradesh,Private,2004,True,False
+BB00025,Uttar Pradesh,Red Cross,2007,True,False
+BB00026,Uttar Pradesh,Government,1998,True,False
+BB00027,Uttar Pradesh,Private,1996,False,False
+BB00028,Uttar Pradesh,Private,2011,True,False
+BB00029,Uttar Pradesh,Private,2002,False,False
+BB00030,Uttar Pradesh,Private,2019,True,False
+BB00031,Uttar Pradesh,Government,2011,False,False
+BB00032,Uttar Pradesh,Private,2015,False,False
+BB00033,Uttar Pradesh,Government,2001,True,False
+BB00034,Uttar Pradesh,Private,2007,True,False
+BB00035,Uttar Pradesh,Private,2007,True,False
+BB00036,Uttar Pradesh,Government,2000,True,False
+BB00037,Uttar Pradesh,Red Cross,2008,True,False
+BB00038,Uttar Pradesh,NGO/Charitable,2012,False,True
+BB00039,Uttar Pradesh,NGO/Charitable,2016,False,False
+BB00040,Uttar Pradesh,Red Cross,2014,False,False
+BB00041,Uttar Pradesh,Government,2017,False,False
+BB00042,Uttar Pradesh,Government,2019,True,False
+BB00043,Uttar Pradesh,Government,2013,False,False
+BB00044,Uttar Pradesh,Private,2000,True,False
+BB00045,Uttar Pradesh,Private,2003,False,False
+BB00046,Uttar Pradesh,Private,2000,True,False
+BB00047,Uttar Pradesh,Government,1999,True,False
+BB00048,Uttar Pradesh,Government,2015,True,False
+BB00049,Uttar Pradesh,Government,1999,True,False
+BB00050,Uttar Pradesh,Private,2007,False,False
+BB00051,Uttar Pradesh,Red Cross,1999,False,False
+BB00052,Uttar Pradesh,Private,2014,False,False
+BB00053,Uttar Pradesh,Red Cross,2011,True,True
+BB00054,Uttar Pradesh,Government,2004,True,False
+BB00055,Uttar Pradesh,Private,2011,True,False
+BB00056,Uttar Pradesh,NGO/Charitable,1999,True,False
+BB00057,Uttar Pradesh,Government,2014,True,False
+BB00058,Uttar Pradesh,NGO/Charitable,2017,True,False
+BB00059,Uttar Pradesh,Private,2016,True,False
+BB00060,Uttar Pradesh,Red Cross,2001,True,False
+BB00061,Uttar Pradesh,Private,1995,True,False
+BB00062,Uttar Pradesh,Government,2003,False,False
+BB00063,Uttar Pradesh,NGO/Charitable,2002,True,False
+BB00064,Uttar Pradesh,NGO/Charitable,2003,False,False
+BB00065,Uttar Pradesh,Private,2000,True,False
+BB00066,Uttar Pradesh,Government,1998,False,False
+BB00067,Uttar Pradesh,Government,1998,True,False
+BB00068,Uttar Pradesh,NGO/Charitable,2011,False,False
+BB00069,Uttar Pradesh,Private,1996,False,False
+BB00070,Uttar Pradesh,Private,2008,False,False
+BB00071,Uttar Pradesh,Red Cross,2000,False,False
+BB00072,Uttar Pradesh,NGO/Charitable,2011,True,False
+BB00073,Uttar Pradesh,Private,2006,True,False
+BB00074,Uttar Pradesh,NGO/Charitable,2012,True,False
+BB00075,Uttar Pradesh,Government,2009,True,False
+BB00076,Uttar Pradesh,Private,2018,True,False
+BB00077,Uttar Pradesh,NGO/Charitable,2006,True,False
+BB00078,Uttar Pradesh,Private,2010,False,False
+BB00079,Uttar Pradesh,Government,1996,False,False
+BB00080,Uttar Pradesh,Private,2009,True,False
+BB00081,Uttar Pradesh,Government,2017,True,False
+BB00082,Uttar Pradesh,Government,2012,True,False
+BB00083,Uttar Pradesh,NGO/Charitable,1995,True,False
+BB00084,Uttar Pradesh,Government,2004,True,False
+BB00085,Uttar Pradesh,Government,2000,True,False
+BB00086,Uttar Pradesh,NGO/Charitable,2008,True,True
+BB00087,Uttar Pradesh,Red Cross,2019,True,False
+BB00088,Uttar Pradesh,NGO/Charitable,2010,False,False
+BB00089,Uttar Pradesh,Private,2000,False,False
+BB00090,Uttar Pradesh,Private,2013,True,False
+BB00091,Uttar Pradesh,NGO/Charitable,2006,True,False
+BB00092,Uttar Pradesh,Private,2018,False,False
+BB00093,Uttar Pradesh,Private,2015,False,False
+BB00094,Uttar Pradesh,Private,2017,True,False
+BB00095,Uttar Pradesh,Private,2013,False,False
+BB00096,Uttar Pradesh,NGO/Charitable,2006,False,True
+BB00097,Uttar Pradesh,Government,2007,False,True
+BB00098,Uttar Pradesh,Government,2019,True,False
+BB00099,Uttar Pradesh,Private,1998,False,True
+BB00100,Uttar Pradesh,Private,2007,True,False
+BB00101,Uttar Pradesh,Government,2019,False,False
+BB00102,Uttar Pradesh,NGO/Charitable,2015,False,True
+BB00103,Uttar Pradesh,Government,2002,True,False
+BB00104,Uttar Pradesh,Private,2002,False,False
+BB00105,Uttar Pradesh,NGO/Charitable,2016,False,True
+BB00106,Uttar Pradesh,Government,2001,True,False
+BB00107,Uttar Pradesh,NGO/Charitable,2010,True,True
+BB00108,Uttar Pradesh,Private,2017,True,False
+BB00109,Uttar Pradesh,Government,2005,True,True
+BB00110,Uttar Pradesh,NGO/Charitable,1996,True,False
+BB00111,Uttar Pradesh,NGO/Charitable,2017,False,False
+BB00112,Uttar Pradesh,Private,2004,False,False
+BB00113,Uttar Pradesh,Government,2010,True,True
+BB00114,Uttar Pradesh,Red Cross,2005,False,False
+BB00115,Uttar Pradesh,Red Cross,2006,True,False
+BB00116,Uttar Pradesh,Government,2007,True,False
+BB00117,Uttar Pradesh,Private,2004,True,False
+BB00118,Uttar Pradesh,Red Cross,2008,False,False
+BB00119,Uttar Pradesh,NGO/Charitable,2018,False,False
+BB00120,Uttar Pradesh,Private,1998,False,False
+BB00121,Uttar Pradesh,Government,2016,False,False
+BB00122,Uttar Pradesh,Government,2006,True,False
+BB00123,Uttar Pradesh,Private,2010,True,False
+BB00124,Uttar Pradesh,Government,2004,False,False
+BB00125,Uttar Pradesh,Private,2010,False,False
+BB00126,Uttar Pradesh,Private,1997,True,False
+BB00127,Uttar Pradesh,NGO/Charitable,2004,False,False
+BB00128,Uttar Pradesh,Government,2000,True,False
+BB00129,Uttar Pradesh,Government,1998,True,False
+BB00130,Uttar Pradesh,Private,2011,True,False
+BB00131,Uttar Pradesh,Government,2018,True,False
+BB00132,Uttar Pradesh,Government,2005,False,True
+BB00133,Uttar Pradesh,Red Cross,2006,False,False
+BB00134,Uttar Pradesh,Private,2005,True,False
+BB00135,Uttar Pradesh,NGO/Charitable,2014,False,False
+BB00136,Uttar Pradesh,Government,1996,False,False
+BB00137,Uttar Pradesh,Private,1996,True,False
+BB00138,Uttar Pradesh,Government,2004,True,False
+BB00139,Uttar Pradesh,Private,2007,True,False
+BB00140,Uttar Pradesh,Private,2015,True,False
+BB00141,Uttar Pradesh,Government,2016,True,False
+BB00142,Uttar Pradesh,Private,2004,True,False
+BB00143,Uttar Pradesh,Private,2011,False,False
+BB00144,Uttar Pradesh,Government,2015,True,False
+BB00145,Uttar Pradesh,NGO/Charitable,2014,True,False
+BB00146,Uttar Pradesh,Private,2008,False,False
+BB00147,Uttar Pradesh,Government,2007,False,True
+BB00148,Uttar Pradesh,Private,2018,True,False
+BB00149,Uttar Pradesh,Government,2005,True,True
+BB00150,Uttar Pradesh,Private,2009,True,False
+BB00151,Uttar Pradesh,NGO/Charitable,2018,False,False
+BB00152,Uttar Pradesh,Government,2011,True,True
+BB00153,Uttar Pradesh,Private,2002,True,False
+BB00154,Uttar Pradesh,Private,2004,True,False
+BB00155,Uttar Pradesh,Government,2008,True,False
+BB00156,Uttar Pradesh,Private,2012,False,False
+BB00157,Uttar Pradesh,NGO/Charitable,1997,True,False
+BB00158,Uttar Pradesh,NGO/Charitable,1997,False,False
+BB00159,Uttar Pradesh,Government,2017,False,False
+BB00160,Uttar Pradesh,NGO/Charitable,2007,False,False
+BB00161,Uttar Pradesh,NGO/Charitable,1998,True,False
+BB00162,Uttar Pradesh,Government,1996,False,False
+BB00163,Uttar Pradesh,Red Cross,2013,True,False
+BB00164,Uttar Pradesh,Private,2004,True,False
+BB00165,Uttar Pradesh,Government,2008,False,False
+BB00166,Uttar Pradesh,Private,2006,True,False
+BB00167,Uttar Pradesh,Government,2001,True,False
+BB00168,Uttar Pradesh,Private,1997,True,False
+BB00169,Uttar Pradesh,Private,2012,False,False
+BB00170,Uttar Pradesh,Government,1998,False,True
+BB00171,Uttar Pradesh,Private,2013,False,False
+BB00172,Uttar Pradesh,Private,2013,True,False
+BB00173,Uttar Pradesh,Red Cross,2003,True,False
+BB00174,Uttar Pradesh,Private,2000,False,False
+BB00175,Uttar Pradesh,NGO/Charitable,1995,False,False
+BB00176,Uttar Pradesh,Private,1998,True,True
+BB00177,Uttar Pradesh,Government,1997,True,False
+BB00178,Uttar Pradesh,Private,2007,False,False
+BB00179,Uttar Pradesh,Private,2011,False,False
+BB00180,Uttar Pradesh,NGO/Charitable,2015,False,False
+BB00181,Uttar Pradesh,Private,2012,True,False
+BB00182,Uttar Pradesh,Government,2000,False,False
+BB00183,Uttar Pradesh,Government,2017,False,False
+BB00184,Uttar Pradesh,Private,2003,True,True
+BB00185,Uttar Pradesh,Private,1999,False,False
+BB00186,Uttar Pradesh,Private,1997,True,False
+BB00187,Uttar Pradesh,Government,1998,True,False
+BB00188,Uttar Pradesh,Government,2007,False,False
+BB00189,Uttar Pradesh,Government,2015,True,False
+BB00190,Uttar Pradesh,NGO/Charitable,2010,False,False
+BB00191,Uttar Pradesh,NGO/Charitable,2003,False,False
+BB00192,Uttar Pradesh,Private,1995,True,False
+BB00193,Uttar Pradesh,Government,2012,True,False
+BB00194,Uttar Pradesh,NGO/Charitable,2014,True,False
+BB00195,Uttar Pradesh,Government,2006,True,False
+BB00196,Uttar Pradesh,Private,2011,True,False
+BB00197,Uttar Pradesh,Private,2008,False,False
+BB00198,Uttar Pradesh,Government,2010,False,False
+BB00199,Uttar Pradesh,Private,1999,True,False
+BB00200,Uttar Pradesh,Government,2005,True,False
+BB00201,Uttar Pradesh,Red Cross,2007,True,False
+BB00202,Uttar Pradesh,Private,2004,False,False
+BB00203,Uttar Pradesh,Government,1999,False,False
+BB00204,Uttar Pradesh,Private,1998,True,False
+BB00205,Uttar Pradesh,Private,2001,True,False
+BB00206,Uttar Pradesh,NGO/Charitable,2013,True,False
+BB00207,Uttar Pradesh,Government,2006,True,False
+BB00208,Uttar Pradesh,Private,2014,False,False
+BB00209,Uttar Pradesh,Private,2009,True,False
+BB00210,Uttar Pradesh,Private,2016,False,False
+BB00211,Uttar Pradesh,Private,2018,True,False
+BB00212,Uttar Pradesh,Government,2010,False,False
+BB00213,Uttar Pradesh,Government,2013,True,False
+BB00214,Uttar Pradesh,Government,2008,False,False
+BB00215,Uttar Pradesh,Government,2014,True,False
+BB00216,Uttar Pradesh,NGO/Charitable,2007,True,True
+BB00217,Uttar Pradesh,Government,2011,True,False
+BB00218,Uttar Pradesh,Private,2013,False,False
+BB00219,Uttar Pradesh,Government,2011,False,False
+BB00220,Uttar Pradesh,Government,2015,True,False
+BB00221,Uttar Pradesh,Government,1999,True,False
+BB00222,Uttar Pradesh,NGO/Charitable,2014,True,False
+BB00223,Uttar Pradesh,Government,2002,True,False
+BB00224,Uttar Pradesh,Government,2012,False,False
+BB00225,Uttar Pradesh,Private,2006,True,False
+BB00226,Uttar Pradesh,Government,2006,False,False
+BB00227,Uttar Pradesh,Private,1998,False,False
+BB00228,Uttar Pradesh,Private,1997,False,True
+BB00229,Uttar Pradesh,Private,2006,True,False
+BB00230,Uttar Pradesh,NGO/Charitable,2010,False,False
+BB00231,Uttar Pradesh,Private,2009,True,False
+BB00232,Uttar Pradesh,Red Cross,2004,True,False
+BB00233,Uttar Pradesh,Government,2009,True,True
+BB00234,Uttar Pradesh,NGO/Charitable,2008,True,False
+BB00235,Uttar Pradesh,NGO/Charitable,1996,True,False
+BB00236,Uttar Pradesh,NGO/Charitable,2009,False,False
+BB00237,Uttar Pradesh,Private,2014,False,True
+BB00238,Uttar Pradesh,NGO/Charitable,2010,False,False
+BB00239,Uttar Pradesh,Private,2010,True,True
+BB00240,Uttar Pradesh,Government,2005,False,False
+BB00241,Uttar Pradesh,Government,2014,True,False
+BB00242,Uttar Pradesh,NGO/Charitable,2008,True,False
+BB00243,Uttar Pradesh,Red Cross,2013,True,False
+BB00244,Uttar Pradesh,Government,2009,True,False
+BB00245,Uttar Pradesh,Government,2008,False,False
+BB00246,Uttar Pradesh,Private,2018,True,False
+BB00247,Uttar Pradesh,Government,2017,True,False
+BB00248,Uttar Pradesh,NGO/Charitable,1997,False,False
+BB00249,Uttar Pradesh,NGO/Charitable,2008,False,False
+BB00250,Uttar Pradesh,NGO/Charitable,2002,False,False
+BB00251,Uttar Pradesh,NGO/Charitable,2015,True,False
+BB00252,Uttar Pradesh,Government,2012,True,False
+BB00253,Uttar Pradesh,Government,2010,False,True
+BB00254,Uttar Pradesh,Government,1999,True,False
+BB00255,Uttar Pradesh,Private,1996,True,False
+BB00256,Uttar Pradesh,Red Cross,1997,False,False
+BB00257,Uttar Pradesh,Private,1995,True,False
+BB00258,Uttar Pradesh,Government,2002,False,False
+BB00259,Uttar Pradesh,Private,2014,True,False
+BB00260,Uttar Pradesh,Private,2017,False,False
+BB00261,Uttar Pradesh,Private,1997,False,False
+BB00262,Uttar Pradesh,NGO/Charitable,1998,True,False
+BB00263,Uttar Pradesh,Government,2003,False,False
+BB00264,Uttar Pradesh,Government,2017,False,False
+BB00265,Uttar Pradesh,Private,1995,False,False
+BB00266,Uttar Pradesh,Private,2017,False,True
+BB00267,Uttar Pradesh,NGO/Charitable,2011,False,False
+BB00268,Uttar Pradesh,Government,2016,False,False
+BB00269,Uttar Pradesh,Government,2001,True,False
+BB00270,Uttar Pradesh,Government,2003,False,False
+BB00271,Uttar Pradesh,Private,2008,True,False
+BB00272,Uttar Pradesh,Private,2005,True,True
+BB00273,Uttar Pradesh,Private,2013,True,False
+BB00274,Uttar Pradesh,Private,2019,True,False
+BB00275,Uttar Pradesh,Private,2002,True,False
+BB00276,Uttar Pradesh,NGO/Charitable,2011,True,False
+BB00277,Uttar Pradesh,Private,2010,False,False
+BB00278,Uttar Pradesh,Government,2009,False,False
+BB00279,Uttar Pradesh,Private,2001,False,False
+BB00280,Uttar Pradesh,NGO/Charitable,2017,False,False
+BB00281,Uttar Pradesh,Government,2006,True,True
+BB00282,Uttar Pradesh,Government,2011,False,False
+BB00283,Uttar Pradesh,Government,1998,False,False
+BB00284,Uttar Pradesh,Government,2008,True,False
+BB00285,Uttar Pradesh,Private,2016,False,False
+BB00286,Uttar Pradesh,Government,2010,True,False
+BB00287,Uttar Pradesh,Private,2005,False,False
+BB00288,Uttar Pradesh,Government,2010,True,True
+BB00289,Uttar Pradesh,Private,2007,True,False
+BB00290,Uttar Pradesh,Government,2003,False,False
+BB00291,Uttar Pradesh,Private,2014,False,True
+BB00292,Uttar Pradesh,Private,2009,False,False
+BB00293,Uttar Pradesh,NGO/Charitable,2002,False,False
+BB00294,Uttar Pradesh,NGO/Charitable,2013,True,False
+BB00295,Uttar Pradesh,Government,2015,True,False
+BB00296,Uttar Pradesh,Government,2011,True,False
+BB00297,Uttar Pradesh,Government,2004,True,False
+BB00298,Uttar Pradesh,Government,2001,False,False
+BB00299,Uttar Pradesh,Government,2015,False,False
+BB00300,Uttar Pradesh,NGO/Charitable,2015,False,False
+BB00301,Uttar Pradesh,Government,2012,False,False
+BB00302,Uttar Pradesh,Private,2015,True,False
+BB00303,Uttar Pradesh,NGO/Charitable,1997,True,False
+BB00304,Uttar Pradesh,Government,2008,True,False
+BB00305,Uttar Pradesh,NGO/Charitable,2010,True,False
+BB00306,Uttar Pradesh,Government,2006,True,False
+BB00307,Uttar Pradesh,Government,2014,False,False
+BB00308,Uttar Pradesh,Government,2003,True,False
+BB00309,Uttar Pradesh,Government,2016,False,False
+BB00310,Uttar Pradesh,Private,2002,True,False
+BB00311,Uttar Pradesh,Government,2005,True,False
+BB00312,Uttar Pradesh,Private,2014,True,False
+BB00313,Uttar Pradesh,Red Cross,1995,False,False
+BB00314,Uttar Pradesh,Government,2005,True,False
+BB00315,Uttar Pradesh,Private,2012,True,False
+BB00316,Uttar Pradesh,Private,1998,True,False
+BB00317,Uttar Pradesh,Government,2010,True,False
+BB00318,Uttar Pradesh,Government,1997,False,False
+BB00319,Uttar Pradesh,Private,2002,False,False
+BB00320,Uttar Pradesh,Government,2009,True,False
+BB00321,Uttar Pradesh,Private,1999,False,True
+BB00322,Uttar Pradesh,NGO/Charitable,2004,False,False
+BB00323,Uttar Pradesh,NGO/Charitable,2016,True,False
+BB00324,Uttar Pradesh,Private,2002,True,False
+BB00325,Uttar Pradesh,Government,2013,False,False
+BB00326,Uttar Pradesh,Government,2003,False,False
+BB00327,Uttar Pradesh,Government,2013,False,False
+BB00328,Uttar Pradesh,Private,2000,True,False
+BB00329,Uttar Pradesh,Government,2009,True,False
+BB00330,Uttar Pradesh,NGO/Charitable,2001,True,False
+BB00331,Uttar Pradesh,NGO/Charitable,2018,True,False
+BB00332,Uttar Pradesh,Government,2012,False,False
+BB00333,Uttar Pradesh,Private,2018,True,False
+BB00334,Uttar Pradesh,Private,2002,False,False
+BB00335,Uttar Pradesh,Private,2016,True,False
+BB00336,Uttar Pradesh,Red Cross,2001,True,False
+BB00337,Uttar Pradesh,Government,2016,False,False
+BB00338,Uttar Pradesh,Red Cross,2012,True,False
+BB00339,Uttar Pradesh,Government,2019,False,False
+BB00340,Uttar Pradesh,Private,2013,True,False
+BB00341,Uttar Pradesh,Government,2007,False,False
+BB00342,Uttar Pradesh,NGO/Charitable,2019,False,False
+BB00343,Uttar Pradesh,NGO/Charitable,2010,True,False
+BB00344,Uttar Pradesh,Private,2012,True,False
+BB00345,Uttar Pradesh,Private,1995,True,False
+BB00346,Uttar Pradesh,Government,2017,False,False
+BB00347,Uttar Pradesh,NGO/Charitable,1999,True,False
+BB00348,Uttar Pradesh,Private,1996,True,False
+BB00349,Uttar Pradesh,Government,2006,False,False
+BB00350,Uttar Pradesh,Private,2013,False,False
+BB00351,Uttar Pradesh,Government,2004,True,True
+BB00352,Uttar Pradesh,Private,2002,False,False
+BB00353,Uttar Pradesh,Private,2008,True,False
+BB00354,Uttar Pradesh,NGO/Charitable,1996,True,False
+BB00355,Uttar Pradesh,Government,2012,True,False
+BB00356,Uttar Pradesh,Private,1997,False,False
+BB00357,Uttar Pradesh,Private,2014,True,False
+BB00358,Uttar Pradesh,Government,1996,True,False
+BB00359,Uttar Pradesh,Government,1996,True,False
+BB00360,Uttar Pradesh,Government,1999,False,True
+BB00361,Uttar Pradesh,Red Cross,2011,False,False
+BB00362,Uttar Pradesh,Private,2019,True,False
+BB00363,Uttar Pradesh,Government,2015,True,False
+BB00364,Uttar Pradesh,Government,2012,False,False
+BB00365,Uttar Pradesh,NGO/Charitable,2018,True,False
+BB00366,Uttar Pradesh,NGO/Charitable,2016,False,True
+BB00367,Uttar Pradesh,Private,1997,True,True
+BB00368,Uttar Pradesh,NGO/Charitable,2007,True,False
+BB00369,Uttar Pradesh,NGO/Charitable,2003,True,False
+BB00370,Uttar Pradesh,Private,1996,False,False
+BB00371,Uttar Pradesh,Government,2006,False,False
+BB00372,Uttar Pradesh,NGO/Charitable,2010,True,False
+BB00373,Uttar Pradesh,Government,2019,True,False
+BB00374,Uttar Pradesh,Private,2012,False,False
+BB00375,Uttar Pradesh,Government,2004,False,False
+BB00376,Uttar Pradesh,Private,2001,False,False
+BB00377,Uttar Pradesh,Government,1997,False,False
+BB00378,Uttar Pradesh,NGO/Charitable,2019,True,False
+BB00379,Uttar Pradesh,Government,2014,True,False
+BB00380,Uttar Pradesh,Government,2018,False,True
+BB00381,Uttar Pradesh,Government,2000,True,False
+BB00382,Uttar Pradesh,Private,2019,False,False
+BB00383,Uttar Pradesh,Private,2001,False,False
+BB00384,Uttar Pradesh,NGO/Charitable,2018,True,False
+BB00385,Uttar Pradesh,Government,1998,False,True
+BB00386,Uttar Pradesh,Government,2017,False,False
+BB00387,Uttar Pradesh,Government,2010,False,True
+BB00388,Uttar Pradesh,Private,2000,False,True
+BB00389,Uttar Pradesh,NGO/Charitable,2010,False,True
+BB00390,Uttar Pradesh,Private,1998,False,False
+BB00391,Uttar Pradesh,NGO/Charitable,2005,True,False
+BB00392,Uttar Pradesh,NGO/Charitable,2016,False,False
+BB00393,Uttar Pradesh,Private,2014,True,False
+BB00394,Uttar Pradesh,Government,1998,False,True
+BB00395,Uttar Pradesh,Private,2002,True,False
+BB00396,Uttar Pradesh,Private,1998,False,True
+BB00397,Uttar Pradesh,NGO/Charitable,2017,True,False
+BB00398,Uttar Pradesh,Government,2016,False,False
+BB00399,Uttar Pradesh,Private,2006,False,False
+BB00400,Uttar Pradesh,Red Cross,2006,True,False
+BB00401,Uttar Pradesh,Government,2018,True,True
+BB00402,Uttar Pradesh,Government,2012,False,False
+BB00403,Uttar Pradesh,Private,2005,False,False
+BB00404,Uttar Pradesh,Private,2018,False,True
+BB00405,Uttar Pradesh,Private,2012,False,False
+BB00406,Uttar Pradesh,Private,1998,True,False
+BB00407,Uttar Pradesh,Private,2006,False,False
+BB00408,Uttar Pradesh,NGO/Charitable,1995,False,False
+BB00409,Uttar Pradesh,Government,2012,True,False
+BB00410,Uttar Pradesh,Red Cross,2011,False,False
+BB00411,Uttar Pradesh,Private,2019,False,False
+BB00412,Uttar Pradesh,Government,2014,False,False
+BB00413,Uttar Pradesh,Private,2002,False,False
+BB00414,Uttar Pradesh,Private,2019,False,False
+BB00415,Uttar Pradesh,Private,2004,False,False
+BB00416,Uttar Pradesh,Private,2012,False,False
+BB00417,Uttar Pradesh,Government,1998,False,True
+BB00418,Uttar Pradesh,NGO/Charitable,2007,True,False
+BB00419,Uttar Pradesh,Private,2001,True,True
+BB00420,Uttar Pradesh,Private,2016,True,False
+BB00421,Uttar Pradesh,NGO/Charitable,2011,False,False
+BB00422,Uttar Pradesh,Government,2014,True,True
+BB00423,Uttar Pradesh,Government,2018,False,False
+BB00424,Uttar Pradesh,NGO/Charitable,2003,True,False
+BB00425,Uttar Pradesh,Government,1995,False,False
+BB00426,Uttar Pradesh,NGO/Charitable,2001,False,False
+BB00427,Uttar Pradesh,Private,1999,False,False
+BB00428,Uttar Pradesh,Government,2018,True,False
+BB00429,Uttar Pradesh,Private,2011,True,False
+BB00430,Uttar Pradesh,NGO/Charitable,1999,True,False
+BB00431,Uttar Pradesh,Private,2017,True,False
+BB00432,Uttar Pradesh,Government,2015,True,False
+BB00433,Uttar Pradesh,Government,2014,True,False
+BB00434,Uttar Pradesh,Government,2005,True,False
+BB00435,Uttar Pradesh,Private,2019,False,True
+BB00436,Uttar Pradesh,NGO/Charitable,2019,False,False
+BB00437,Uttar Pradesh,Private,2005,True,False
+BB00438,Uttar Pradesh,Government,2003,False,False
+BB00439,Uttar Pradesh,NGO/Charitable,2018,False,True
+BB00440,Uttar Pradesh,Government,2016,True,True
+BB00441,Uttar Pradesh,Government,2002,False,False
+BB00442,Uttar Pradesh,NGO/Charitable,2002,False,True
+BB00443,Uttar Pradesh,NGO/Charitable,1997,False,False
+BB00444,Uttar Pradesh,Government,2010,False,False
+BB00445,Uttar Pradesh,NGO/Charitable,2001,True,False
+BB00446,Uttar Pradesh,Red Cross,2010,True,True
+BB00447,Uttar Pradesh,Red Cross,2013,False,False
+BB00448,Uttar Pradesh,Private,2012,True,False
+BB00449,Uttar Pradesh,Private,2015,False,False
+BB00450,Uttar Pradesh,Government,1999,True,False
+BB00451,Uttar Pradesh,Private,2009,True,False
+BB00452,Uttar Pradesh,Private,2007,False,False
+BB00453,Uttar Pradesh,Private,2013,True,False
+BB00454,Uttar Pradesh,Private,2017,True,False
+BB00455,Uttar Pradesh,Government,1999,True,False
+BB00456,Uttar Pradesh,Government,2018,True,False
+BB00457,Uttar Pradesh,Red Cross,2016,False,False
+BB00458,Uttar Pradesh,NGO/Charitable,2010,True,False
+BB00459,Uttar Pradesh,Government,2002,True,False
+BB00460,Uttar Pradesh,Private,2003,True,False
+BB00461,Uttar Pradesh,Government,2003,True,True
+BB00462,Uttar Pradesh,Government,2002,False,False
+BB00463,Uttar Pradesh,Red Cross,2018,True,False
+BB00464,Uttar Pradesh,NGO/Charitable,2003,False,False
+BB00465,Uttar Pradesh,Private,2018,True,False
+BB00466,Uttar Pradesh,Private,2000,False,False
+BB00467,Uttar Pradesh,Government,2009,True,False
+BB00468,Uttar Pradesh,Private,2004,False,False
+BB00469,Uttar Pradesh,NGO/Charitable,2004,True,False
+BB00470,Uttar Pradesh,Government,2006,True,False
+BB00471,Uttar Pradesh,Government,2015,True,False
+BB00472,Uttar Pradesh,Government,2005,True,False
+BB00473,Uttar Pradesh,NGO/Charitable,2002,False,False
+BB00474,Uttar Pradesh,Private,2018,False,False
+BB00475,Uttar Pradesh,Private,2017,False,False
+BB00476,Uttar Pradesh,Private,1996,True,False
+BB00477,Uttar Pradesh,Government,1999,True,False
+BB00478,Uttar Pradesh,Private,2012,True,True
+BB00479,Uttar Pradesh,Red Cross,2018,False,False
+BB00480,Uttar Pradesh,Private,2000,True,False
+BB00481,Uttar Pradesh,Government,1996,True,False
+BB00482,Uttar Pradesh,Government,1998,False,True
+BB00483,Uttar Pradesh,Private,2006,False,False
+BB00484,Uttar Pradesh,Private,2000,False,False
+BB00485,Uttar Pradesh,Private,1999,False,True
+BB00486,Uttar Pradesh,Private,2018,True,False
+BB00487,Uttar Pradesh,Government,2003,True,False
+BB00488,Uttar Pradesh,Government,2007,True,True
+BB00489,Uttar Pradesh,Government,1998,True,False
+BB00490,Uttar Pradesh,Private,2012,True,False
+BB00491,Uttar Pradesh,Government,2003,True,False
+BB00492,Uttar Pradesh,Private,2016,True,False
+BB00493,Uttar Pradesh,Private,2005,True,False
+BB00494,Uttar Pradesh,Government,2001,True,False
+BB00495,Uttar Pradesh,Private,1995,False,False
+BB00496,Uttar Pradesh,NGO/Charitable,1995,False,False
+BB00497,Uttar Pradesh,Government,2009,True,False
+BB00498,Uttar Pradesh,Government,2004,False,False
+BB00499,Uttar Pradesh,Private,1997,False,False
+BB00500,Uttar Pradesh,Private,2012,True,False
+BB00501,Uttar Pradesh,Private,2013,False,False
+BB00502,Uttar Pradesh,Government,2012,True,False
+BB00503,Uttar Pradesh,Private,2015,True,False
+BB00504,Uttar Pradesh,Private,2014,True,False
+BB00505,Uttar Pradesh,Red Cross,2004,True,False
+BB00506,Uttar Pradesh,Red Cross,2014,True,True
+BB00507,Uttar Pradesh,NGO/Charitable,2002,True,False
+BB00508,Uttar Pradesh,Government,2013,False,False
+BB00509,Uttar Pradesh,Private,2000,False,False
+BB00510,Uttar Pradesh,NGO/Charitable,2014,False,False
+BB00511,Uttar Pradesh,Private,1998,False,False
+BB00512,Uttar Pradesh,Red Cross,2013,False,False
+BB00513,Uttar Pradesh,Private,2012,False,False
+BB00514,Uttar Pradesh,Private,1997,False,True
+BB00515,Uttar Pradesh,Private,2017,False,False
+BB00516,Uttar Pradesh,Private,2019,True,False
+BB00517,Uttar Pradesh,NGO/Charitable,2015,True,False
+BB00518,Uttar Pradesh,Government,2014,True,False
+BB00519,Uttar Pradesh,Private,2012,True,True
+BB00520,Uttar Pradesh,Government,2019,True,False
+BB00521,Uttar Pradesh,Red Cross,2016,True,False
+BB00522,Uttar Pradesh,Government,2006,True,False
+BB00523,Uttar Pradesh,Private,2008,False,False
+BB00524,Uttar Pradesh,Government,1995,False,False
+BB00525,Uttar Pradesh,Government,2002,False,False
+BB00526,Uttar Pradesh,NGO/Charitable,2004,True,False
+BB00527,Uttar Pradesh,Government,2019,False,False
+BB00528,Uttar Pradesh,Government,2002,False,False
+BB00529,Uttar Pradesh,Private,2013,False,False
+BB00530,Uttar Pradesh,Private,2014,False,False
+BB00531,Uttar Pradesh,NGO/Charitable,2009,True,False
+BB00532,Uttar Pradesh,Private,1997,False,False
+BB00533,Uttar Pradesh,Private,1995,False,False
+BB00534,Uttar Pradesh,Red Cross,2012,False,False
+BB00535,Uttar Pradesh,Government,2002,False,False
+BB00536,Uttar Pradesh,NGO/Charitable,2003,False,False
+BB00537,Uttar Pradesh,Private,2019,True,False
+BB00538,Uttar Pradesh,NGO/Charitable,2002,True,True
+BB00539,Uttar Pradesh,Government,2011,True,False
+BB00540,Uttar Pradesh,Government,2003,True,False
+BB00541,Uttar Pradesh,Government,2012,True,False
+BB00542,Uttar Pradesh,Government,2015,True,False
+BB00543,Uttar Pradesh,NGO/Charitable,2017,False,True
+BB00544,Uttar Pradesh,Private,2015,True,False
+BB00545,Uttar Pradesh,Government,2012,True,False
+BB00546,Uttar Pradesh,NGO/Charitable,2011,False,False
+BB00547,Uttar Pradesh,NGO/Charitable,2016,False,False
+BB00548,Uttar Pradesh,Red Cross,2005,True,False
+BB00549,Uttar Pradesh,Private,2016,True,False
+BB00550,Uttar Pradesh,Red Cross,2006,False,False
+BB00551,Uttar Pradesh,Private,2009,True,False
+BB00552,Uttar Pradesh,Private,2008,False,False
+BB00553,Uttar Pradesh,Government,1997,False,False
+BB00554,Uttar Pradesh,Private,2010,True,False
+BB00555,Uttar Pradesh,Government,2002,True,False
+BB00556,Uttar Pradesh,Private,2008,True,False
+BB00557,Uttar Pradesh,Government,2007,True,False
+BB00558,Uttar Pradesh,Private,2019,True,True
+BB00559,Uttar Pradesh,Private,2004,False,False
+BB00560,Uttar Pradesh,NGO/Charitable,2002,True,True
+BB00561,Uttar Pradesh,Government,2012,False,False
+BB00562,Uttar Pradesh,Government,2009,True,False
+BB00563,Uttar Pradesh,NGO/Charitable,2002,False,True
+BB00564,Uttar Pradesh,Private,2009,True,True
+BB00565,Uttar Pradesh,Red Cross,1996,True,False
+BB00566,Uttar Pradesh,Private,2017,True,False
+BB00567,Uttar Pradesh,Government,2000,False,False
+BB00568,Uttar Pradesh,Private,2011,True,True
+BB00569,Uttar Pradesh,NGO/Charitable,2014,True,False
+BB00570,Uttar Pradesh,Government,2015,False,False
+BB00571,Uttar Pradesh,Private,2004,False,False
+BB00572,Uttar Pradesh,Government,2009,True,False
+BB00573,Uttar Pradesh,NGO/Charitable,2018,True,False
+BB00574,Uttar Pradesh,NGO/Charitable,1995,True,False
+BB00575,Uttar Pradesh,Government,1997,True,True
+BB00576,Uttar Pradesh,Government,2004,True,False
+BB00577,Uttar Pradesh,Private,2016,True,False
+BB00578,Uttar Pradesh,Private,1996,True,False
+BB00579,Uttar Pradesh,Private,2009,True,False
+BB00580,Uttar Pradesh,Red Cross,2004,True,False
+BB00581,Uttar Pradesh,Private,1997,False,False
+BB00582,Uttar Pradesh,NGO/Charitable,1999,False,False
+BB00583,Uttar Pradesh,Private,2009,False,False
+BB00584,Uttar Pradesh,Government,2019,True,False
+BB00585,Uttar Pradesh,Private,2007,True,False
+BB00586,Uttar Pradesh,Private,2000,False,False
+BB00587,Uttar Pradesh,Government,2012,True,False
+BB00588,Uttar Pradesh,NGO/Charitable,2014,False,False
+BB00589,Uttar Pradesh,Private,2002,False,False
+BB00590,Uttar Pradesh,NGO/Charitable,2000,True,False
+BB00591,Uttar Pradesh,Private,1996,False,False
+BB00592,Uttar Pradesh,Private,2001,True,False
+BB00593,Uttar Pradesh,Private,2001,True,False
+BB00594,Uttar Pradesh,Private,2015,False,True
+BB00595,Uttar Pradesh,NGO/Charitable,2002,True,False
+BB00596,Uttar Pradesh,Private,2002,False,False
+BB00597,Uttar Pradesh,Government,2003,False,False
+BB00598,Uttar Pradesh,Government,2001,False,False
+BB00599,Uttar Pradesh,Government,2014,False,True
+BB00600,Uttar Pradesh,NGO/Charitable,2002,True,False
+BB00601,Uttar Pradesh,Private,2013,True,False
+BB00602,Uttar Pradesh,NGO/Charitable,2011,True,False
+BB00603,Uttar Pradesh,Government,2015,True,False
+BB00604,Uttar Pradesh,Government,2004,True,False
+BB00605,Uttar Pradesh,NGO/Charitable,2001,False,False
+BB00606,Uttar Pradesh,Private,2001,True,False
+BB00607,Uttar Pradesh,Private,1997,True,False
+BB00608,Uttar Pradesh,Government,2009,False,False
+BB00609,Uttar Pradesh,Government,2004,False,False
+BB00610,Uttar Pradesh,NGO/Charitable,2018,True,False
+BB00611,Uttar Pradesh,Private,2018,False,False
+BB00612,Uttar Pradesh,NGO/Charitable,2005,False,False
+BB00613,Uttar Pradesh,Private,2003,False,False
+BB00614,Uttar Pradesh,Government,1999,False,False
+BB00615,Uttar Pradesh,NGO/Charitable,2009,False,False
+BB00616,Uttar Pradesh,Private,1996,False,False
+BB00617,Uttar Pradesh,Government,2014,True,False
+BB00618,Uttar Pradesh,Government,2012,True,False
+BB00619,Uttar Pradesh,Private,2002,False,False
+BB00620,Uttar Pradesh,Government,2014,False,False
+BB00621,Uttar Pradesh,Private,2011,True,True
+BB00622,Uttar Pradesh,NGO/Charitable,2017,False,False
+BB00623,Maharashtra,NGO/Charitable,2000,False,False
+BB00624,Maharashtra,Government,2018,False,False
+BB00625,Maharashtra,Government,2010,True,False
+BB00626,Maharashtra,Private,2014,True,True
+BB00627,Maharashtra,Private,2001,False,False
+BB00628,Maharashtra,Private,2009,False,False
+BB00629,Maharashtra,Government,2011,True,False
+BB00630,Maharashtra,Private,2008,True,False
+BB00631,Maharashtra,NGO/Charitable,2005,True,False
+BB00632,Maharashtra,Government,1997,True,False
+BB00633,Maharashtra,NGO/Charitable,2018,False,False
+BB00634,Maharashtra,Private,2000,True,False
+BB00635,Maharashtra,Government,2018,False,False
+BB00636,Maharashtra,Red Cross,2010,True,False
+BB00637,Maharashtra,Government,1999,False,False
+BB00638,Maharashtra,Red Cross,2003,True,False
+BB00639,Maharashtra,Private,2013,False,False
+BB00640,Maharashtra,Red Cross,2018,True,False
+BB00641,Maharashtra,Private,2010,False,False
+BB00642,Maharashtra,Private,2005,True,False
+BB00643,Maharashtra,Private,2012,False,False
+BB00644,Maharashtra,NGO/Charitable,2007,False,False
+BB00645,Maharashtra,Private,2018,True,False
+BB00646,Maharashtra,Private,2006,False,False
+BB00647,Maharashtra,Government,2006,True,True
+BB00648,Maharashtra,Government,1997,True,False
+BB00649,Maharashtra,Government,2007,True,False
+BB00650,Maharashtra,Private,2015,True,True
+BB00651,Maharashtra,NGO/Charitable,2003,False,False
+BB00652,Maharashtra,Government,2001,True,False
+BB00653,Maharashtra,Red Cross,1996,True,False
+BB00654,Maharashtra,Private,2017,False,False
+BB00655,Maharashtra,Private,2019,False,False
+BB00656,Maharashtra,Private,2004,False,False
+BB00657,Maharashtra,Government,2006,False,False
+BB00658,Maharashtra,Government,1995,True,False
+BB00659,Maharashtra,Private,2001,False,True
+BB00660,Maharashtra,NGO/Charitable,1997,False,False
+BB00661,Maharashtra,Government,2012,False,False
+BB00662,Maharashtra,Government,2012,True,False
+BB00663,Maharashtra,Government,2005,False,False
+BB00664,Maharashtra,NGO/Charitable,2015,False,False
+BB00665,Maharashtra,Government,1999,False,False
+BB00666,Maharashtra,Private,2007,False,False
+BB00667,Maharashtra,NGO/Charitable,2015,True,False
+BB00668,Maharashtra,Government,2014,True,True
+BB00669,Maharashtra,Private,2006,True,False
+BB00670,Maharashtra,Private,2011,True,False
+BB00671,Maharashtra,Government,2011,True,True
+BB00672,Maharashtra,Government,2005,True,False
+BB00673,Maharashtra,Government,2015,False,False
+BB00674,Maharashtra,Red Cross,2010,False,False
+BB00675,Maharashtra,Private,2005,False,False
+BB00676,Maharashtra,Private,2019,False,False
+BB00677,Maharashtra,Private,2005,True,False
+BB00678,Maharashtra,Government,2019,True,False
+BB00679,Maharashtra,Private,2006,False,False
+BB00680,Maharashtra,Government,2002,True,False
+BB00681,Maharashtra,Private,2015,True,True
+BB00682,Maharashtra,Government,2011,False,False
+BB00683,Maharashtra,Government,2015,True,False
+BB00684,Maharashtra,NGO/Charitable,2018,True,False
+BB00685,Maharashtra,Government,2008,False,False
+BB00686,Maharashtra,Private,2012,True,False
+BB00687,Maharashtra,NGO/Charitable,1998,True,False
+BB00688,Maharashtra,Private,2003,True,False
+BB00689,Maharashtra,Government,2009,True,False
+BB00690,Maharashtra,Private,1998,True,False
+BB00691,Maharashtra,Private,2001,True,False
+BB00692,Maharashtra,NGO/Charitable,2005,True,False
+BB00693,Maharashtra,Private,2016,False,False
+BB00694,Maharashtra,Government,2001,True,False
+BB00695,Maharashtra,Private,2002,False,False
+BB00696,Maharashtra,Private,1996,True,False
+BB00697,Maharashtra,Government,2012,False,True
+BB00698,Maharashtra,NGO/Charitable,1995,True,False
+BB00699,Maharashtra,Private,2010,False,False
+BB00700,Maharashtra,Government,2009,False,False
+BB00701,Maharashtra,Government,2010,False,False
+BB00702,Maharashtra,Government,2015,True,False
+BB00703,Maharashtra,Government,2013,True,False
+BB00704,Maharashtra,Private,2007,True,False
+BB00705,Maharashtra,Private,2017,False,False
+BB00706,Maharashtra,Red Cross,2010,True,True
+BB00707,Maharashtra,Private,1995,True,False
+BB00708,Maharashtra,NGO/Charitable,1999,True,False
+BB00709,Maharashtra,Red Cross,2010,True,False
+BB00710,Maharashtra,Private,2012,True,False
+BB00711,Maharashtra,Government,2018,False,False
+BB00712,Maharashtra,Government,2012,False,False
+BB00713,Maharashtra,Private,2002,False,False
+BB00714,Maharashtra,Government,2003,False,False
+BB00715,Maharashtra,Private,2006,True,False
+BB00716,Maharashtra,Private,2018,False,False
+BB00717,Maharashtra,Private,2002,True,True
+BB00718,Maharashtra,NGO/Charitable,2006,True,False
+BB00719,Maharashtra,Private,2006,False,False
+BB00720,Maharashtra,Private,2019,False,False
+BB00721,Maharashtra,Government,2003,True,False
+BB00722,Maharashtra,NGO/Charitable,2007,True,True
+BB00723,Maharashtra,Government,2005,True,False
+BB00724,Maharashtra,Government,2010,True,False
+BB00725,Maharashtra,Private,2011,True,False
+BB00726,Maharashtra,Government,2015,False,False
+BB00727,Maharashtra,NGO/Charitable,2018,False,False
+BB00728,Maharashtra,Private,2008,False,True
+BB00729,Maharashtra,NGO/Charitable,2000,False,False
+BB00730,Maharashtra,Private,1995,False,False
+BB00731,Maharashtra,NGO/Charitable,2001,False,False
+BB00732,Maharashtra,Government,2003,True,True
+BB00733,Maharashtra,Government,1995,False,False
+BB00734,Maharashtra,Government,2011,False,False
+BB00735,Maharashtra,NGO/Charitable,2014,True,False
+BB00736,Maharashtra,NGO/Charitable,2006,True,False
+BB00737,Maharashtra,Red Cross,2014,True,False
+BB00738,Maharashtra,Private,1998,False,False
+BB00739,Maharashtra,Private,1998,False,False
+BB00740,Maharashtra,Government,2010,True,False
+BB00741,Maharashtra,Government,2000,True,False
+BB00742,Maharashtra,Private,2016,False,False
+BB00743,Maharashtra,Government,2017,False,True
+BB00744,Maharashtra,Government,2015,True,False
+BB00745,Maharashtra,Private,2003,False,False
+BB00746,Maharashtra,Government,2008,False,True
+BB00747,Maharashtra,NGO/Charitable,2003,False,True
+BB00748,Maharashtra,Private,2019,True,False
+BB00749,Maharashtra,Private,2011,False,False
+BB00750,Maharashtra,Government,2004,False,False
+BB00751,Maharashtra,NGO/Charitable,2004,True,False
+BB00752,Maharashtra,Government,2019,True,False
+BB00753,Maharashtra,Government,2009,True,False
+BB00754,Maharashtra,Private,2006,False,False
+BB00755,Maharashtra,Private,1997,False,False
+BB00756,Maharashtra,Private,2006,True,False
+BB00757,Maharashtra,Government,2008,True,False
+BB00758,Maharashtra,Private,2018,True,False
+BB00759,Maharashtra,Private,1999,True,False
+BB00760,Maharashtra,Government,2018,True,True
+BB00761,Maharashtra,Private,2001,True,False
+BB00762,Maharashtra,Government,2000,False,False
+BB00763,Maharashtra,Private,2007,True,False
+BB00764,Maharashtra,NGO/Charitable,1998,False,True
+BB00765,Maharashtra,Red Cross,2007,True,True
+BB00766,Maharashtra,Private,2016,True,True
+BB00767,Maharashtra,Private,2011,True,True
+BB00768,Maharashtra,Private,2003,True,False
+BB00769,Maharashtra,NGO/Charitable,2012,False,False
+BB00770,Maharashtra,Private,2019,False,False
+BB00771,Maharashtra,NGO/Charitable,2006,True,False
+BB00772,Maharashtra,Government,2001,True,False
+BB00773,Maharashtra,Private,1997,False,False
+BB00774,Maharashtra,Government,2002,True,False
+BB00775,Maharashtra,Private,2016,True,False
+BB00776,Maharashtra,Private,2000,False,False
+BB00777,Maharashtra,Private,2004,True,False
+BB00778,Maharashtra,Government,1998,True,True
+BB00779,Maharashtra,Government,2008,False,False
+BB00780,Maharashtra,Private,1995,True,False
+BB00781,Maharashtra,Government,2017,False,False
+BB00782,Maharashtra,NGO/Charitable,1998,False,False
+BB00783,Maharashtra,Private,1999,True,True
+BB00784,Maharashtra,Red Cross,1998,False,False
+BB00785,Maharashtra,Private,1995,True,True
+BB00786,Maharashtra,Private,2006,True,False
+BB00787,Maharashtra,Private,2012,False,True
+BB00788,Maharashtra,NGO/Charitable,2015,False,False
+BB00789,Maharashtra,NGO/Charitable,2009,False,False
+BB00790,Maharashtra,NGO/Charitable,2017,True,False
+BB00791,Maharashtra,NGO/Charitable,2012,False,False
+BB00792,Maharashtra,Government,2000,False,False
+BB00793,Maharashtra,Private,2000,False,True
+BB00794,Maharashtra,Private,2019,False,False
+BB00795,Maharashtra,Government,2009,True,False
+BB00796,Maharashtra,Private,1999,True,False
+BB00797,Maharashtra,Private,2014,False,False
+BB00798,Maharashtra,Private,1998,True,False
+BB00799,Maharashtra,NGO/Charitable,2016,False,False
+BB00800,Maharashtra,NGO/Charitable,2017,False,False
+BB00801,Maharashtra,Government,2018,True,False
+BB00802,Maharashtra,Private,2017,False,False
+BB00803,Maharashtra,NGO/Charitable,2004,False,False
+BB00804,Maharashtra,Private,2007,True,True
+BB00805,Maharashtra,NGO/Charitable,2000,False,True
+BB00806,Maharashtra,Private,2008,False,False
+BB00807,Maharashtra,Private,2000,True,False
+BB00808,Maharashtra,Government,2002,False,False
+BB00809,Maharashtra,Government,1999,True,False
+BB00810,Maharashtra,NGO/Charitable,2007,True,False
+BB00811,Maharashtra,Red Cross,2007,True,False
+BB00812,Maharashtra,Private,2010,True,False
+BB00813,Maharashtra,Government,2017,True,False
+BB00814,Maharashtra,Government,2011,True,False
+BB00815,Maharashtra,Government,2017,True,False
+BB00816,Maharashtra,Private,2012,True,False
+BB00817,Maharashtra,Private,2009,True,True
+BB00818,Maharashtra,Private,1999,False,False
+BB00819,Maharashtra,Private,2007,True,True
+BB00820,Maharashtra,Government,2009,True,False
+BB00821,Maharashtra,Red Cross,1995,True,False
+BB00822,Maharashtra,NGO/Charitable,2009,True,False
+BB00823,Maharashtra,Private,1999,True,False
+BB00824,Maharashtra,Private,2017,False,False
+BB00825,Maharashtra,Private,2014,True,False
+BB00826,Maharashtra,Government,2014,False,False
+BB00827,Maharashtra,Government,2019,True,True
+BB00828,Maharashtra,Government,2010,True,False
+BB00829,Maharashtra,Government,2017,False,False
+BB00830,Maharashtra,Government,2013,True,False
+BB00831,Maharashtra,NGO/Charitable,2005,False,False
+BB00832,Maharashtra,Red Cross,2001,True,False
+BB00833,Maharashtra,Government,2018,True,False
+BB00834,Maharashtra,Red Cross,2011,True,False
+BB00835,Maharashtra,Government,2014,True,False
+BB00836,Maharashtra,Government,2016,False,False
+BB00837,Maharashtra,Private,2014,True,False
+BB00838,Maharashtra,NGO/Charitable,2002,False,False
+BB00839,Maharashtra,Red Cross,2003,False,True
+BB00840,Maharashtra,NGO/Charitable,2001,True,False
+BB00841,Maharashtra,Government,2002,False,False
+BB00842,Maharashtra,NGO/Charitable,2019,False,False
+BB00843,Maharashtra,Government,1996,True,False
+BB00844,Maharashtra,Government,2003,True,False
+BB00845,Maharashtra,Private,1996,True,True
+BB00846,Maharashtra,Government,2005,False,False
+BB00847,Maharashtra,NGO/Charitable,2013,True,False
+BB00848,Maharashtra,Red Cross,2007,False,False
+BB00849,Maharashtra,Red Cross,2019,True,False
+BB00850,Maharashtra,NGO/Charitable,1998,False,False
+BB00851,Maharashtra,Government,2006,True,False
+BB00852,Maharashtra,NGO/Charitable,2005,True,False
+BB00853,Maharashtra,Red Cross,2016,False,False
+BB00854,Maharashtra,Red Cross,2018,False,False
+BB00855,Maharashtra,Government,1996,True,False
+BB00856,Maharashtra,Private,2009,True,False
+BB00857,Maharashtra,Private,2004,True,True
+BB00858,Maharashtra,Private,1996,True,False
+BB00859,Maharashtra,Private,1997,True,False
+BB00860,Maharashtra,Government,2006,True,True
+BB00861,Maharashtra,Red Cross,2014,True,False
+BB00862,Maharashtra,NGO/Charitable,2017,False,False
+BB00863,Maharashtra,Private,2001,True,False
+BB00864,Maharashtra,Private,2016,False,False
+BB00865,Maharashtra,Private,2001,True,True
+BB00866,Maharashtra,Private,2017,True,False
+BB00867,Maharashtra,Red Cross,1999,False,False
+BB00868,Maharashtra,Government,2007,False,False
+BB00869,Maharashtra,NGO/Charitable,2010,True,False
+BB00870,Maharashtra,Government,2016,False,False
+BB00871,Maharashtra,Government,2005,True,False
+BB00872,Maharashtra,Government,1996,True,False
+BB00873,Maharashtra,Government,2015,True,False
+BB00874,Maharashtra,Private,1999,True,False
+BB00875,Maharashtra,Private,2019,True,True
+BB00876,Maharashtra,Private,2013,False,False
+BB00877,Maharashtra,Government,2002,False,False
+BB00878,Maharashtra,NGO/Charitable,1996,True,False
+BB00879,Maharashtra,Government,2018,True,False
+BB00880,Maharashtra,Government,2002,False,False
+BB00881,Maharashtra,Private,1999,False,False
+BB00882,Maharashtra,Private,2004,True,True
+BB00883,Maharashtra,NGO/Charitable,1999,True,False
+BB00884,Maharashtra,Government,2001,True,False
+BB00885,Maharashtra,Private,1999,True,False
+BB00886,Maharashtra,Private,1995,True,False
+BB00887,Bihar,Government,2014,True,False
+BB00888,Bihar,Red Cross,2004,False,False
+BB00889,Bihar,NGO/Charitable,2012,False,False
+BB00890,Bihar,Government,2006,True,False
+BB00891,Bihar,Private,2010,True,False
+BB00892,Bihar,Private,2002,False,True
+BB00893,Bihar,NGO/Charitable,2002,False,False
+BB00894,Bihar,NGO/Charitable,2004,False,False
+BB00895,Bihar,Private,2017,True,False
+BB00896,Bihar,Private,1998,False,False
+BB00897,Bihar,NGO/Charitable,2017,False,False
+BB00898,Bihar,NGO/Charitable,2013,False,False
+BB00899,Bihar,Government,1997,False,False
+BB00900,Bihar,Private,2003,False,True
+BB00901,Bihar,NGO/Charitable,2010,True,False
+BB00902,Bihar,Red Cross,2001,True,False
+BB00903,Bihar,Private,1999,False,False
+BB00904,Bihar,Red Cross,2000,True,False
+BB00905,Bihar,Government,2013,False,False
+BB00906,Bihar,Private,1998,False,False
+BB00907,Bihar,Private,1995,False,False
+BB00908,Bihar,Red Cross,2002,False,True
+BB00909,Bihar,Government,2013,False,False
+BB00910,Bihar,Private,2010,False,True
+BB00911,Bihar,NGO/Charitable,2001,True,True
+BB00912,Bihar,NGO/Charitable,2002,True,False
+BB00913,Bihar,Private,2008,False,False
+BB00914,Bihar,Government,2001,True,False
+BB00915,Bihar,Private,2013,True,False
+BB00916,Bihar,Government,2001,False,False
+BB00917,Bihar,Private,2003,True,False
+BB00918,Bihar,Red Cross,2012,False,False
+BB00919,Bihar,Government,2018,True,False
+BB00920,Bihar,Private,2004,False,False
+BB00921,Bihar,Red Cross,2002,True,True
+BB00922,Bihar,NGO/Charitable,1996,False,False
+BB00923,Bihar,Government,1999,True,False
+BB00924,Bihar,Red Cross,2018,True,False
+BB00925,Bihar,Government,2016,True,False
+BB00926,Bihar,Private,2013,True,False
+BB00927,Bihar,Private,1996,False,False
+BB00928,Bihar,Private,2013,True,True
+BB00929,Bihar,Private,2003,True,True
+BB00930,Bihar,Private,2016,False,True
+BB00931,Bihar,Private,2019,False,True
+BB00932,Bihar,Private,2008,True,False
+BB00933,Bihar,NGO/Charitable,2012,False,False
+BB00934,Bihar,Government,1995,True,False
+BB00935,Bihar,Private,1998,True,False
+BB00936,Bihar,Red Cross,1999,True,False
+BB00937,Bihar,NGO/Charitable,2000,True,False
+BB00938,Bihar,NGO/Charitable,2005,True,False
+BB00939,Bihar,NGO/Charitable,2002,True,False
+BB00940,Bihar,Private,2012,False,False
+BB00941,Bihar,Private,2015,False,False
+BB00942,Bihar,Government,2006,True,True
+BB00943,Bihar,Private,1996,True,False
+BB00944,Bihar,NGO/Charitable,2017,False,False
+BB00945,Bihar,Government,2001,True,False
+BB00946,Bihar,Private,1995,False,True
+BB00947,Bihar,Government,2019,True,False
+BB00948,Bihar,NGO/Charitable,1995,False,False
+BB00949,Bihar,Government,1995,True,False
+BB00950,Bihar,Government,2014,True,False
+BB00951,Bihar,Red Cross,2000,False,False
+BB00952,Bihar,Government,2018,False,False
+BB00953,Bihar,Private,2001,False,False
+BB00954,Bihar,Government,2017,True,False
+BB00955,Bihar,Private,2017,False,False
+BB00956,Bihar,Private,2008,True,False
+BB00957,Bihar,Government,2009,False,True
+BB00958,Bihar,Private,1998,True,True
+BB00959,Bihar,Private,2006,True,False
+BB00960,Bihar,Government,2019,True,False
+BB00961,Bihar,Private,1999,True,False
+BB00962,Bihar,Private,2011,False,False
+BB00963,Bihar,NGO/Charitable,2005,True,False
+BB00964,Bihar,Government,2001,False,False
+BB00965,Bihar,Private,2003,True,False
+BB00966,Bihar,Government,2011,True,True
+BB00967,Bihar,NGO/Charitable,2011,True,False
+BB00968,Bihar,Government,2011,True,False
+BB00969,Bihar,Private,2013,False,False
+BB00970,Bihar,NGO/Charitable,2003,False,False
+BB00971,Bihar,Private,2005,True,False
+BB00972,Bihar,Government,1996,False,False
+BB00973,Bihar,Private,1999,True,False
+BB00974,Bihar,Government,2009,True,True
+BB00975,Bihar,Private,2009,True,False
+BB00976,Bihar,Private,2017,True,False
+BB00977,Bihar,Government,1995,True,False
+BB00978,Bihar,Red Cross,1995,True,False
+BB00979,Bihar,Private,2011,False,False
+BB00980,Bihar,Government,2015,False,False
+BB00981,Bihar,Private,1999,True,False
+BB00982,Bihar,Government,2016,True,False
+BB00983,Bihar,Private,1995,False,True
+BB00984,Bihar,NGO/Charitable,2011,False,False
+BB00985,Bihar,Red Cross,1995,False,False
+BB00986,Bihar,Private,2009,False,False
+BB00987,Bihar,Government,1998,True,False
+BB00988,Bihar,Government,1999,False,False
+BB00989,Bihar,Government,1999,False,False
+BB00990,Bihar,Government,1999,True,False
+BB00991,Bihar,NGO/Charitable,2018,False,True
+BB00992,Bihar,Government,1998,True,False
+BB00993,Bihar,Government,1996,True,False
+BB00994,Bihar,Private,2012,True,False
+BB00995,Bihar,Private,2000,True,False
+BB00996,Bihar,Private,2009,True,False
+BB00997,Bihar,Government,2000,True,False
+BB00998,Bihar,Private,2011,True,False
+BB00999,Bihar,Government,2007,False,False
+BB01000,Bihar,NGO/Charitable,2000,True,False
+BB01001,Bihar,NGO/Charitable,2014,True,False
+BB01002,Bihar,Government,2013,False,False
+BB01003,Bihar,Private,1995,False,False
+BB01004,Bihar,Private,2011,True,False
+BB01005,Bihar,Government,2012,True,False
+BB01006,Bihar,Private,1996,True,False
+BB01007,Bihar,Private,2003,False,False
+BB01008,Bihar,Red Cross,1995,True,True
+BB01009,Bihar,Government,2006,False,False
+BB01010,Bihar,Private,2004,True,False
+BB01011,Bihar,Government,2009,True,False
+BB01012,Bihar,NGO/Charitable,2007,False,False
+BB01013,Bihar,NGO/Charitable,2005,True,False
+BB01014,Bihar,NGO/Charitable,2015,False,False
+BB01015,Bihar,Government,2005,True,False
+BB01016,Bihar,Government,1999,True,False
+BB01017,Bihar,Government,1997,True,False
+BB01018,Bihar,Private,2002,True,True
+BB01019,Bihar,Red Cross,2019,True,False
+BB01020,Bihar,Red Cross,2011,False,False
+BB01021,Bihar,NGO/Charitable,2011,False,False
+BB01022,Bihar,NGO/Charitable,2003,True,False
+BB01023,Bihar,Private,2016,True,False
+BB01024,Bihar,Private,2010,False,False
+BB01025,Bihar,Government,2001,True,False
+BB01026,Bihar,Government,2017,False,False
+BB01027,Bihar,Private,2011,True,False
+BB01028,Bihar,NGO/Charitable,2001,True,False
+BB01029,Bihar,Private,1996,False,False
+BB01030,Bihar,NGO/Charitable,1996,False,False
+BB01031,Bihar,Private,2019,False,False
+BB01032,Bihar,Private,2017,False,False
+BB01033,Bihar,Government,2006,True,False
+BB01034,Bihar,Private,1998,True,False
+BB01035,Bihar,Private,2004,True,False
+BB01036,Bihar,Government,2016,True,False
+BB01037,Bihar,Private,2006,False,False
+BB01038,Bihar,NGO/Charitable,2008,True,True
+BB01039,Bihar,Government,2017,False,True
+BB01040,Bihar,Government,2006,True,False
+BB01041,Bihar,Government,2009,True,True
+BB01042,Bihar,Government,2008,False,False
+BB01043,Bihar,Private,2000,False,False
+BB01044,Bihar,Government,2001,True,True
+BB01045,Bihar,Private,2003,True,False
+BB01046,Bihar,Red Cross,1996,False,False
+BB01047,Bihar,Private,1997,True,False
+BB01048,Bihar,Private,2004,True,True
+BB01049,Bihar,NGO/Charitable,2006,True,False
+BB01050,Bihar,Government,2019,True,False
+BB01051,Bihar,Government,1997,False,False
+BB01052,Bihar,Private,1995,True,False
+BB01053,Bihar,Red Cross,2004,True,False
+BB01054,Bihar,NGO/Charitable,1995,False,False
+BB01055,Bihar,Government,2011,False,False
+BB01056,Bihar,Private,2000,False,False
+BB01057,Bihar,Government,1999,True,False
+BB01058,Bihar,Government,2002,False,False
+BB01059,Bihar,Private,2008,True,True
+BB01060,Bihar,Red Cross,2015,False,False
+BB01061,Bihar,Private,2000,True,False
+BB01062,Bihar,Government,2012,False,False
+BB01063,Bihar,Government,1997,False,False
+BB01064,Bihar,Red Cross,1998,True,False
+BB01065,Bihar,Private,2013,True,False
+BB01066,Bihar,Government,2008,True,False
+BB01067,Bihar,Government,2017,False,False
+BB01068,Bihar,Private,2010,True,False
+BB01069,Bihar,Private,2012,True,False
+BB01070,Bihar,Private,2018,True,False
+BB01071,Bihar,Government,2005,False,False
+BB01072,Bihar,Private,2009,False,False
+BB01073,Bihar,Private,2000,False,False
+BB01074,Bihar,Private,2019,True,False
+BB01075,Bihar,Government,2018,False,False
+BB01076,Bihar,NGO/Charitable,2019,True,False
+BB01077,Bihar,Government,1996,False,False
+BB01078,Bihar,NGO/Charitable,2011,True,True
+BB01079,Bihar,Government,2015,False,False
+BB01080,Bihar,NGO/Charitable,2004,True,False
+BB01081,Bihar,Private,2018,True,False
+BB01082,Bihar,NGO/Charitable,2004,True,False
+BB01083,Bihar,NGO/Charitable,2002,True,False
+BB01084,Bihar,Private,2007,False,False
+BB01085,Bihar,Government,2019,False,False
+BB01086,Bihar,Government,2005,False,False
+BB01087,Bihar,NGO/Charitable,2000,False,False
+BB01088,Bihar,Private,2005,True,False
+BB01089,Bihar,NGO/Charitable,2003,False,False
+BB01090,Bihar,Government,2007,False,False
+BB01091,Bihar,Government,2016,True,False
+BB01092,Bihar,Private,2015,False,False
+BB01093,Bihar,Government,2016,False,False
+BB01094,Bihar,Government,2009,True,False
+BB01095,Bihar,Private,1999,False,False
+BB01096,Bihar,Red Cross,2016,False,True
+BB01097,Bihar,Government,2010,True,False
+BB01098,Bihar,Private,1997,True,True
+BB01099,Bihar,Red Cross,2008,True,False
+BB01100,Bihar,Private,2010,True,False
+BB01101,Bihar,Government,2014,False,False
+BB01102,West Bengal,NGO/Charitable,2012,True,False
+BB01103,West Bengal,Private,2010,True,False
+BB01104,West Bengal,Government,2010,True,False
+BB01105,West Bengal,Government,2005,False,False
+BB01106,West Bengal,NGO/Charitable,2011,True,False
+BB01107,West Bengal,Private,2017,False,False
+BB01108,West Bengal,Government,1997,True,False
+BB01109,West Bengal,Government,2014,False,False
+BB01110,West Bengal,Private,2011,False,False
+BB01111,West Bengal,Private,2008,True,False
+BB01112,West Bengal,Government,2006,True,False
+BB01113,West Bengal,Private,2017,False,False
+BB01114,West Bengal,Government,2008,True,False
+BB01115,West Bengal,Private,2003,True,True
+BB01116,West Bengal,Private,2006,True,False
+BB01117,West Bengal,Private,2019,True,True
+BB01118,West Bengal,NGO/Charitable,2014,False,True
+BB01119,West Bengal,Private,2002,False,False
+BB01120,West Bengal,Government,2002,True,False
+BB01121,West Bengal,Government,2010,True,False
+BB01122,West Bengal,Government,2004,False,False
+BB01123,West Bengal,Government,1998,True,True
+BB01124,West Bengal,Private,1995,False,False
+BB01125,West Bengal,Government,2012,False,False
+BB01126,West Bengal,Government,2008,True,False
+BB01127,West Bengal,Government,2003,True,False
+BB01128,West Bengal,Private,1997,False,True
+BB01129,West Bengal,Private,2014,True,False
+BB01130,West Bengal,Government,1998,True,False
+BB01131,West Bengal,Government,2013,True,False
+BB01132,West Bengal,Government,2016,False,False
+BB01133,West Bengal,Government,2009,True,False
+BB01134,West Bengal,NGO/Charitable,2012,False,False
+BB01135,West Bengal,NGO/Charitable,2019,False,False
+BB01136,West Bengal,Red Cross,2008,False,False
+BB01137,West Bengal,Red Cross,2010,True,False
+BB01138,West Bengal,NGO/Charitable,1995,True,False
+BB01139,West Bengal,Government,2001,True,False
+BB01140,West Bengal,NGO/Charitable,2000,False,False
+BB01141,West Bengal,Private,2017,False,False
+BB01142,West Bengal,NGO/Charitable,1995,True,False
+BB01143,West Bengal,Private,2003,True,False
+BB01144,West Bengal,Red Cross,1999,True,False
+BB01145,West Bengal,Private,2004,True,False
+BB01146,West Bengal,NGO/Charitable,2017,False,False
+BB01147,West Bengal,NGO/Charitable,2017,True,False
+BB01148,West Bengal,Red Cross,2007,True,False
+BB01149,West Bengal,Private,1996,True,False
+BB01150,West Bengal,Government,1999,True,False
+BB01151,West Bengal,Government,2015,False,False
+BB01152,West Bengal,NGO/Charitable,2008,False,False
+BB01153,West Bengal,Government,2014,False,False
+BB01154,West Bengal,NGO/Charitable,2006,False,False
+BB01155,West Bengal,Private,2016,True,True
+BB01156,West Bengal,Private,2013,False,True
+BB01157,West Bengal,Government,2008,True,False
+BB01158,West Bengal,NGO/Charitable,2010,False,False
+BB01159,West Bengal,Private,2004,True,False
+BB01160,West Bengal,Government,2006,True,False
+BB01161,West Bengal,Private,2013,False,False
+BB01162,West Bengal,Private,2000,True,False
+BB01163,West Bengal,NGO/Charitable,1996,False,False
+BB01164,West Bengal,Private,2010,True,False
+BB01165,West Bengal,Government,1998,True,False
+BB01166,West Bengal,Private,2014,False,False
+BB01167,West Bengal,NGO/Charitable,2013,True,False
+BB01168,West Bengal,NGO/Charitable,2000,False,False
+BB01169,West Bengal,Government,2012,True,False
+BB01170,West Bengal,Private,2014,False,False
+BB01171,West Bengal,Private,2007,True,False
+BB01172,West Bengal,NGO/Charitable,2015,False,False
+BB01173,West Bengal,Private,1999,True,False
+BB01174,West Bengal,Private,2007,True,False
+BB01175,West Bengal,NGO/Charitable,2005,False,False
+BB01176,West Bengal,Government,2006,True,False
+BB01177,West Bengal,Government,1997,False,False
+BB01178,West Bengal,Private,2009,True,False
+BB01179,West Bengal,Government,1995,False,False
+BB01180,West Bengal,Private,1998,True,False
+BB01181,West Bengal,Private,1998,True,False
+BB01182,West Bengal,Red Cross,1997,False,False
+BB01183,West Bengal,Government,2011,True,False
+BB01184,West Bengal,NGO/Charitable,1995,False,False
+BB01185,West Bengal,Private,2003,True,False
+BB01186,West Bengal,Private,1996,True,False
+BB01187,West Bengal,Government,2015,True,False
+BB01188,West Bengal,NGO/Charitable,2007,True,False
+BB01189,West Bengal,Government,1998,True,False
+BB01190,West Bengal,Government,2010,False,False
+BB01191,West Bengal,NGO/Charitable,2000,False,False
+BB01192,West Bengal,Private,2016,False,False
+BB01193,West Bengal,Government,2011,False,False
+BB01194,West Bengal,Government,2016,False,False
+BB01195,West Bengal,Private,2002,False,True
+BB01196,West Bengal,Government,2009,False,False
+BB01197,West Bengal,Government,2009,False,False
+BB01198,West Bengal,NGO/Charitable,2004,True,False
+BB01199,West Bengal,Government,2006,False,True
+BB01200,West Bengal,Private,2011,True,False
+BB01201,West Bengal,Private,2009,False,False
+BB01202,West Bengal,Government,1999,False,False
+BB01203,West Bengal,Private,2016,False,False
+BB01204,West Bengal,Government,1997,False,False
+BB01205,West Bengal,Red Cross,2014,False,False
+BB01206,West Bengal,Government,2008,False,False
+BB01207,West Bengal,Private,2002,True,False
+BB01208,West Bengal,Government,1997,True,False
+BB01209,West Bengal,Government,1998,True,False
+BB01210,West Bengal,Government,1998,True,False
+BB01211,West Bengal,Government,2001,True,True
+BB01212,West Bengal,Government,2007,False,True
+BB01213,West Bengal,Government,2001,False,False
+BB01214,West Bengal,Private,2019,True,False
+BB01215,West Bengal,NGO/Charitable,2005,False,False
+BB01216,West Bengal,Private,1997,False,False
+BB01217,West Bengal,Government,2016,True,True
+BB01218,West Bengal,Private,1998,True,False
+BB01219,West Bengal,Government,2006,False,False
+BB01220,West Bengal,Private,2004,True,True
+BB01221,West Bengal,Private,2001,False,False
+BB01222,West Bengal,NGO/Charitable,2010,True,False
+BB01223,West Bengal,Private,1999,False,False
+BB01224,West Bengal,Private,2018,False,False
+BB01225,West Bengal,Private,2001,True,False
+BB01226,West Bengal,NGO/Charitable,2004,False,False
+BB01227,West Bengal,Private,2001,False,False
+BB01228,West Bengal,Private,2011,False,False
+BB01229,West Bengal,Government,2000,False,False
+BB01230,West Bengal,Private,2019,False,False
+BB01231,West Bengal,Private,2019,True,False
+BB01232,West Bengal,Private,2008,False,False
+BB01233,West Bengal,NGO/Charitable,2007,True,False
+BB01234,West Bengal,Private,2012,True,False
+BB01235,West Bengal,Government,2016,True,False
+BB01236,West Bengal,Private,1999,False,False
+BB01237,West Bengal,Private,2012,False,False
+BB01238,West Bengal,Private,1995,False,False
+BB01239,West Bengal,NGO/Charitable,2008,True,False
+BB01240,West Bengal,NGO/Charitable,1998,True,True
+BB01241,West Bengal,Government,2003,True,False
+BB01242,West Bengal,Government,2007,True,False
+BB01243,West Bengal,Government,1996,False,False
+BB01244,West Bengal,Private,2015,True,False
+BB01245,West Bengal,NGO/Charitable,1999,True,False
+BB01246,West Bengal,Government,2017,True,False
+BB01247,West Bengal,NGO/Charitable,2018,True,False
+BB01248,West Bengal,Red Cross,2006,True,False
+BB01249,West Bengal,Private,2014,False,False
+BB01250,West Bengal,Red Cross,2010,False,False
+BB01251,West Bengal,NGO/Charitable,1998,False,False
+BB01252,West Bengal,Government,2018,True,False
+BB01253,West Bengal,NGO/Charitable,2011,True,False
+BB01254,West Bengal,Government,2014,True,False
+BB01255,West Bengal,Government,2004,False,False
+BB01256,West Bengal,NGO/Charitable,2013,True,False
+BB01257,West Bengal,Government,1995,True,False
+BB01258,West Bengal,NGO/Charitable,2003,True,False
+BB01259,West Bengal,Private,2012,True,False
+BB01260,West Bengal,NGO/Charitable,2018,False,False
+BB01261,West Bengal,Private,2003,True,False
+BB01262,West Bengal,Private,2013,True,False
+BB01263,West Bengal,Private,1997,False,False
+BB01264,West Bengal,Government,2005,True,False
+BB01265,West Bengal,Private,1996,False,False
+BB01266,West Bengal,Red Cross,2005,False,True
+BB01267,West Bengal,Private,2017,False,True
+BB01268,West Bengal,NGO/Charitable,2018,True,False
+BB01269,West Bengal,Government,2000,True,False
+BB01270,West Bengal,NGO/Charitable,2019,True,False
+BB01271,West Bengal,NGO/Charitable,2009,True,False
+BB01272,West Bengal,Private,1999,False,False
+BB01273,West Bengal,Government,2004,False,False
+BB01274,West Bengal,Government,2002,False,True
+BB01275,West Bengal,NGO/Charitable,2019,True,False
+BB01276,West Bengal,Private,2012,True,False
+BB01277,West Bengal,Private,2016,False,False
+BB01278,West Bengal,NGO/Charitable,2007,False,False
+BB01279,West Bengal,Private,2019,True,False
+BB01280,West Bengal,Private,1996,True,False
+BB01281,West Bengal,NGO/Charitable,2018,True,False
+BB01282,West Bengal,Government,2007,True,False
+BB01283,West Bengal,Red Cross,2006,True,False
+BB01284,West Bengal,Private,2004,True,True
+BB01285,West Bengal,Private,2019,False,False
+BB01286,West Bengal,NGO/Charitable,2008,False,False
+BB01287,West Bengal,Red Cross,2013,False,False
+BB01288,West Bengal,Red Cross,1995,True,False
+BB01289,West Bengal,Government,2007,True,True
+BB01290,West Bengal,NGO/Charitable,1996,True,False
+BB01291,West Bengal,NGO/Charitable,2018,True,False
+BB01292,West Bengal,Government,2018,False,False
+BB01293,West Bengal,Private,2013,True,False
+BB01294,West Bengal,Private,1997,True,False
+BB01295,West Bengal,Private,2003,True,False
+BB01296,West Bengal,Private,2010,True,False
+BB01297,West Bengal,Government,2003,False,False
+BB01298,West Bengal,NGO/Charitable,2008,False,False
+BB01299,West Bengal,Private,2000,True,False
+BB01300,West Bengal,Private,2013,False,False
+BB01301,West Bengal,Red Cross,1997,False,True
+BB01302,West Bengal,Government,1999,True,False
+BB01303,West Bengal,NGO/Charitable,2006,False,False
+BB01304,West Bengal,Government,1999,True,False
+BB01305,West Bengal,NGO/Charitable,2005,False,False
+BB01306,West Bengal,Government,2002,True,False
+BB01307,West Bengal,Government,2008,True,False
+BB01308,West Bengal,Government,2005,True,False
+BB01309,West Bengal,Government,2015,True,False
+BB01310,West Bengal,NGO/Charitable,2009,True,False
+BB01311,West Bengal,Red Cross,2010,False,False
+BB01312,West Bengal,Private,2000,True,False
+BB01313,West Bengal,Private,2006,False,False
+BB01314,West Bengal,NGO/Charitable,2014,True,True
+BB01315,West Bengal,Private,1999,False,False
+BB01316,West Bengal,Private,2017,True,False
+BB01317,West Bengal,NGO/Charitable,1996,True,False
+BB01318,West Bengal,Private,2013,False,False
+BB01319,West Bengal,Private,1997,True,False
+BB01320,West Bengal,Private,2000,False,False
+BB01321,West Bengal,Private,2016,True,True
+BB01322,West Bengal,Government,2015,False,False
+BB01323,West Bengal,Government,2004,False,False
+BB01324,West Bengal,Government,2013,True,False
+BB01325,West Bengal,NGO/Charitable,2011,False,True
+BB01326,West Bengal,Private,2013,False,False
+BB01327,West Bengal,NGO/Charitable,2019,True,False
+BB01328,West Bengal,Private,1998,True,False
+BB01329,West Bengal,Private,2004,True,False
+BB01330,West Bengal,Red Cross,2001,False,False
+BB01331,West Bengal,Government,2016,True,False
+BB01332,West Bengal,Government,2016,True,False
+BB01333,West Bengal,Government,1999,True,False
+BB01334,West Bengal,NGO/Charitable,2016,True,False
+BB01335,West Bengal,Government,2019,True,False
+BB01336,West Bengal,Government,2018,False,False
+BB01337,West Bengal,Private,1998,True,False
+BB01338,West Bengal,NGO/Charitable,1995,True,True
+BB01339,West Bengal,Government,1996,True,False
+BB01340,West Bengal,Red Cross,2003,False,False
+BB01341,West Bengal,NGO/Charitable,2007,True,False
+BB01342,West Bengal,NGO/Charitable,2003,True,False
+BB01343,West Bengal,Government,1996,True,False
+BB01344,West Bengal,Government,1997,True,False
+BB01345,West Bengal,Red Cross,2002,True,False
+BB01346,West Bengal,Private,2008,False,False
+BB01347,West Bengal,Private,2009,False,False
+BB01348,West Bengal,Private,2010,True,False
+BB01349,West Bengal,Private,2016,True,False
+BB01350,West Bengal,Private,2010,False,False
+BB01351,West Bengal,Private,2013,True,False
+BB01352,West Bengal,Private,2007,False,False
+BB01353,West Bengal,Private,1997,False,False
+BB01354,West Bengal,NGO/Charitable,2014,True,False
+BB01355,West Bengal,Government,2000,True,False
+BB01356,West Bengal,Private,2007,False,False
+BB01357,West Bengal,Government,2001,False,False
+BB01358,West Bengal,Government,2004,True,False
+BB01359,West Bengal,Red Cross,2007,False,False
+BB01360,West Bengal,Red Cross,2006,True,False
+BB01361,West Bengal,Government,2005,True,False
+BB01362,West Bengal,Private,1999,True,False
+BB01363,West Bengal,Private,2014,True,False
+BB01364,West Bengal,Government,2015,False,False
+BB01365,West Bengal,Government,2003,False,False
+BB01366,West Bengal,Private,2008,True,True
+BB01367,West Bengal,Government,2013,True,False
+BB01368,West Bengal,Private,2012,False,False
+BB01369,West Bengal,Private,2005,True,False
+BB01370,West Bengal,Government,2013,True,False
+BB01371,West Bengal,Private,2019,False,True
+BB01372,West Bengal,NGO/Charitable,2001,True,False
+BB01373,West Bengal,NGO/Charitable,1995,True,True
+BB01374,West Bengal,Private,2017,False,False
+BB01375,West Bengal,NGO/Charitable,2019,False,False
+BB01376,West Bengal,Private,1997,True,False
+BB01377,West Bengal,Private,2010,True,False
+BB01378,Madhya Pradesh,Red Cross,1996,True,False
+BB01379,Madhya Pradesh,Government,2019,False,False
+BB01380,Madhya Pradesh,NGO/Charitable,2017,False,True
+BB01381,Madhya Pradesh,NGO/Charitable,2004,True,True
+BB01382,Madhya Pradesh,Private,2017,True,False
+BB01383,Madhya Pradesh,Red Cross,2016,False,False
+BB01384,Madhya Pradesh,NGO/Charitable,1995,False,False
+BB01385,Madhya Pradesh,Government,1997,True,False
+BB01386,Madhya Pradesh,Government,2017,True,False
+BB01387,Madhya Pradesh,Government,2008,True,False
+BB01388,Madhya Pradesh,Government,2002,False,False
+BB01389,Madhya Pradesh,Private,2014,True,True
+BB01390,Madhya Pradesh,Government,1999,True,False
+BB01391,Madhya Pradesh,Government,1999,False,False
+BB01392,Madhya Pradesh,Private,2006,True,False
+BB01393,Madhya Pradesh,Private,2016,False,False
+BB01394,Madhya Pradesh,Government,2019,True,False
+BB01395,Madhya Pradesh,Government,1996,True,False
+BB01396,Madhya Pradesh,Private,2005,False,False
+BB01397,Madhya Pradesh,Private,2000,True,True
+BB01398,Madhya Pradesh,Private,2015,True,False
+BB01399,Madhya Pradesh,Private,2014,False,True
+BB01400,Madhya Pradesh,Private,1997,True,False
+BB01401,Madhya Pradesh,Private,2010,False,False
+BB01402,Madhya Pradesh,Private,1997,False,False
+BB01403,Madhya Pradesh,Private,2007,True,False
+BB01404,Madhya Pradesh,Government,2003,False,False
+BB01405,Madhya Pradesh,Private,1995,False,False
+BB01406,Madhya Pradesh,Private,2014,True,False
+BB01407,Madhya Pradesh,Private,1998,False,True
+BB01408,Madhya Pradesh,Private,2007,True,True
+BB01409,Madhya Pradesh,Private,2018,False,False
+BB01410,Madhya Pradesh,Private,2006,True,False
+BB01411,Madhya Pradesh,Private,2019,False,False
+BB01412,Madhya Pradesh,Government,2015,True,False
+BB01413,Madhya Pradesh,Government,1997,True,False
+BB01414,Madhya Pradesh,Private,1999,True,False
+BB01415,Madhya Pradesh,Government,1998,True,True
+BB01416,Madhya Pradesh,NGO/Charitable,1998,True,True
+BB01417,Madhya Pradesh,Private,2007,True,False
+BB01418,Madhya Pradesh,NGO/Charitable,2015,True,False
+BB01419,Madhya Pradesh,Private,2012,False,False
+BB01420,Madhya Pradesh,NGO/Charitable,2003,False,False
+BB01421,Madhya Pradesh,Government,2000,False,False
+BB01422,Madhya Pradesh,Government,2016,True,True
+BB01423,Madhya Pradesh,Government,2019,True,False
+BB01424,Madhya Pradesh,Private,2015,True,False
+BB01425,Madhya Pradesh,Government,2005,False,True
+BB01426,Madhya Pradesh,Private,2001,False,False
+BB01427,Madhya Pradesh,Red Cross,1999,True,True
+BB01428,Madhya Pradesh,Government,2005,False,False
+BB01429,Madhya Pradesh,Red Cross,2018,True,False
+BB01430,Madhya Pradesh,Private,2012,True,True
+BB01431,Madhya Pradesh,Government,2019,True,False
+BB01432,Madhya Pradesh,Government,2004,True,False
+BB01433,Madhya Pradesh,NGO/Charitable,2006,False,False
+BB01434,Madhya Pradesh,Private,2001,True,False
+BB01435,Madhya Pradesh,Private,2002,True,False
+BB01436,Madhya Pradesh,Private,2002,False,False
+BB01437,Madhya Pradesh,Government,2001,True,False
+BB01438,Madhya Pradesh,Private,2004,True,False
+BB01439,Madhya Pradesh,Private,2009,False,False
+BB01440,Madhya Pradesh,Government,2017,True,True
+BB01441,Madhya Pradesh,Private,2017,False,False
+BB01442,Madhya Pradesh,NGO/Charitable,2007,True,False
+BB01443,Madhya Pradesh,Private,2003,True,False
+BB01444,Madhya Pradesh,Private,2000,True,False
+BB01445,Madhya Pradesh,Private,2014,False,False
+BB01446,Madhya Pradesh,Government,2006,False,False
+BB01447,Madhya Pradesh,NGO/Charitable,2014,False,False
+BB01448,Madhya Pradesh,Private,2009,False,False
+BB01449,Madhya Pradesh,Government,2015,False,False
+BB01450,Madhya Pradesh,NGO/Charitable,2002,True,True
+BB01451,Madhya Pradesh,Private,2009,False,False
+BB01452,Madhya Pradesh,Private,1995,False,False
+BB01453,Madhya Pradesh,NGO/Charitable,1998,True,False
+BB01454,Madhya Pradesh,Private,2008,True,False
+BB01455,Madhya Pradesh,NGO/Charitable,1995,True,False
+BB01456,Madhya Pradesh,Government,2014,True,False
+BB01457,Madhya Pradesh,Private,1996,True,False
+BB01458,Madhya Pradesh,Private,2016,False,False
+BB01459,Madhya Pradesh,NGO/Charitable,2011,True,False
+BB01460,Madhya Pradesh,Private,1998,False,True
+BB01461,Madhya Pradesh,Government,2006,True,False
+BB01462,Madhya Pradesh,Government,2014,True,False
+BB01463,Madhya Pradesh,Government,2011,True,False
+BB01464,Madhya Pradesh,Red Cross,2019,True,False
+BB01465,Madhya Pradesh,NGO/Charitable,2015,False,False
+BB01466,Madhya Pradesh,Red Cross,2003,True,False
+BB01467,Madhya Pradesh,Government,2011,False,False
+BB01468,Madhya Pradesh,Private,1996,False,True
+BB01469,Madhya Pradesh,Red Cross,2015,False,False
+BB01470,Madhya Pradesh,Government,2009,True,False
+BB01471,Madhya Pradesh,Government,2018,True,False
+BB01472,Madhya Pradesh,Government,2011,False,False
+BB01473,Madhya Pradesh,Government,2016,True,False
+BB01474,Madhya Pradesh,Private,2009,False,False
+BB01475,Madhya Pradesh,Red Cross,2014,True,False
+BB01476,Madhya Pradesh,Private,2018,True,False
+BB01477,Madhya Pradesh,Private,2001,True,False
+BB01478,Madhya Pradesh,Government,2016,True,False
+BB01479,Madhya Pradesh,Government,2012,False,False
+BB01480,Madhya Pradesh,Private,2011,False,True
+BB01481,Madhya Pradesh,Private,1996,True,False
+BB01482,Madhya Pradesh,Government,2012,True,False
+BB01483,Madhya Pradesh,Government,2014,True,False
+BB01484,Madhya Pradesh,Private,2004,False,False
+BB01485,Madhya Pradesh,NGO/Charitable,2002,False,False
+BB01486,Madhya Pradesh,Private,2019,True,True
+BB01487,Madhya Pradesh,Government,2002,True,False
+BB01488,Madhya Pradesh,Government,2011,False,False
+BB01489,Madhya Pradesh,Government,2003,True,False
+BB01490,Madhya Pradesh,Private,2017,True,False
+BB01491,Madhya Pradesh,Government,1995,True,False
+BB01492,Madhya Pradesh,Government,2012,False,False
+BB01493,Madhya Pradesh,Private,2008,True,False
+BB01494,Madhya Pradesh,Government,2018,True,True
+BB01495,Madhya Pradesh,Private,1995,False,False
+BB01496,Madhya Pradesh,Private,2001,False,False
+BB01497,Madhya Pradesh,Government,2018,True,False
+BB01498,Madhya Pradesh,Government,2005,True,False
+BB01499,Madhya Pradesh,Government,2012,False,True
+BB01500,Madhya Pradesh,NGO/Charitable,2008,True,False
+BB01501,Madhya Pradesh,NGO/Charitable,2013,True,False
+BB01502,Madhya Pradesh,Government,2008,True,True
+BB01503,Madhya Pradesh,Private,2000,True,False
+BB01504,Madhya Pradesh,NGO/Charitable,2013,False,False
+BB01505,Madhya Pradesh,Private,2011,False,False
+BB01506,Madhya Pradesh,NGO/Charitable,2007,False,False
+BB01507,Madhya Pradesh,Private,2012,True,False
+BB01508,Madhya Pradesh,Government,2011,True,False
+BB01509,Madhya Pradesh,Government,2010,False,False
+BB01510,Madhya Pradesh,Private,2007,False,True
+BB01511,Madhya Pradesh,Government,1998,False,False
+BB01512,Madhya Pradesh,NGO/Charitable,2002,False,False
+BB01513,Madhya Pradesh,Private,1997,False,False
+BB01514,Madhya Pradesh,Red Cross,2001,True,False
+BB01515,Madhya Pradesh,Government,2014,True,False
+BB01516,Madhya Pradesh,Private,2001,False,True
+BB01517,Madhya Pradesh,Private,2016,True,False
+BB01518,Madhya Pradesh,NGO/Charitable,2015,True,False
+BB01519,Madhya Pradesh,Private,2013,True,False
+BB01520,Madhya Pradesh,Private,1997,True,False
+BB01521,Madhya Pradesh,Government,1996,True,False
+BB01522,Madhya Pradesh,Red Cross,2007,False,True
+BB01523,Madhya Pradesh,Private,2017,True,False
+BB01524,Madhya Pradesh,NGO/Charitable,1999,False,False
+BB01525,Madhya Pradesh,NGO/Charitable,2010,False,False
+BB01526,Madhya Pradesh,NGO/Charitable,2017,False,False
+BB01527,Madhya Pradesh,Government,2007,True,False
+BB01528,Madhya Pradesh,Red Cross,2012,True,False
+BB01529,Madhya Pradesh,Private,1997,True,False
+BB01530,Madhya Pradesh,Private,2006,True,False
+BB01531,Madhya Pradesh,Red Cross,2011,True,False
+BB01532,Madhya Pradesh,NGO/Charitable,2008,True,False
+BB01533,Madhya Pradesh,Government,2002,False,False
+BB01534,Madhya Pradesh,NGO/Charitable,1995,False,False
+BB01535,Madhya Pradesh,Red Cross,2019,False,False
+BB01536,Madhya Pradesh,Private,1999,True,False
+BB01537,Madhya Pradesh,Private,2019,False,False
+BB01538,Madhya Pradesh,Government,1996,False,True
+BB01539,Madhya Pradesh,Private,2016,True,False
+BB01540,Madhya Pradesh,Private,2018,False,False
+BB01541,Madhya Pradesh,Private,2009,True,False
+BB01542,Madhya Pradesh,NGO/Charitable,2018,True,False
+BB01543,Madhya Pradesh,Government,2000,False,False
+BB01544,Madhya Pradesh,Private,2011,True,False
+BB01545,Madhya Pradesh,Government,2000,True,True
+BB01546,Madhya Pradesh,Government,1996,True,False
+BB01547,Madhya Pradesh,NGO/Charitable,2003,False,False
+BB01548,Madhya Pradesh,Government,2009,False,False
+BB01549,Madhya Pradesh,Private,2013,True,False
+BB01550,Madhya Pradesh,Private,1999,True,True
+BB01551,Madhya Pradesh,NGO/Charitable,2009,False,True
+BB01552,Madhya Pradesh,Government,2000,True,False
+BB01553,Madhya Pradesh,NGO/Charitable,2009,True,False
+BB01554,Madhya Pradesh,Private,2019,False,False
+BB01555,Madhya Pradesh,NGO/Charitable,2008,True,False
+BB01556,Madhya Pradesh,Government,1999,True,False
+BB01557,Madhya Pradesh,Government,1998,True,True
+BB01558,Madhya Pradesh,Private,2009,False,True
+BB01559,Madhya Pradesh,Private,1997,False,False
+BB01560,Madhya Pradesh,Government,2006,True,False
+BB01561,Tamil Nadu,Government,2008,True,False
+BB01562,Tamil Nadu,Government,2016,False,False
+BB01563,Tamil Nadu,Private,1999,True,False
+BB01564,Tamil Nadu,Government,2011,False,False
+BB01565,Tamil Nadu,Private,1999,False,False
+BB01566,Tamil Nadu,NGO/Charitable,2019,False,False
+BB01567,Tamil Nadu,Government,2013,False,False
+BB01568,Tamil Nadu,Private,2009,False,False
+BB01569,Tamil Nadu,Private,2014,False,False
+BB01570,Tamil Nadu,Red Cross,1996,True,False
+BB01571,Tamil Nadu,NGO/Charitable,2003,False,False
+BB01572,Tamil Nadu,NGO/Charitable,2003,False,False
+BB01573,Tamil Nadu,Private,2013,True,True
+BB01574,Tamil Nadu,Red Cross,2015,False,False
+BB01575,Tamil Nadu,NGO/Charitable,2010,True,False
+BB01576,Tamil Nadu,Private,2000,True,False
+BB01577,Tamil Nadu,NGO/Charitable,1998,True,False
+BB01578,Tamil Nadu,Government,2001,True,False
+BB01579,Tamil Nadu,Private,2016,False,False
+BB01580,Tamil Nadu,Government,2010,False,True
+BB01581,Tamil Nadu,Red Cross,2006,True,False
+BB01582,Tamil Nadu,NGO/Charitable,2013,True,False
+BB01583,Tamil Nadu,Government,1996,True,False
+BB01584,Tamil Nadu,Government,2001,False,False
+BB01585,Tamil Nadu,NGO/Charitable,2004,False,False
+BB01586,Tamil Nadu,NGO/Charitable,2016,False,False
+BB01587,Tamil Nadu,Private,2015,True,False
+BB01588,Tamil Nadu,Government,2010,True,False
+BB01589,Tamil Nadu,Government,2005,False,False
+BB01590,Tamil Nadu,Government,2019,False,False
+BB01591,Tamil Nadu,Government,1999,True,False
+BB01592,Tamil Nadu,Government,1998,False,False
+BB01593,Tamil Nadu,Private,2001,True,False
+BB01594,Tamil Nadu,NGO/Charitable,2012,False,False
+BB01595,Tamil Nadu,Private,2005,False,True
+BB01596,Tamil Nadu,Private,2013,False,False
+BB01597,Tamil Nadu,NGO/Charitable,1999,True,False
+BB01598,Tamil Nadu,Private,2018,True,False
+BB01599,Tamil Nadu,Government,2014,False,False
+BB01600,Tamil Nadu,Government,2017,False,False
+BB01601,Tamil Nadu,Government,2007,False,True
+BB01602,Tamil Nadu,Private,2000,False,True
+BB01603,Tamil Nadu,NGO/Charitable,1997,True,False
+BB01604,Tamil Nadu,Private,2013,True,True
+BB01605,Tamil Nadu,Government,2002,True,False
+BB01606,Tamil Nadu,Private,2012,False,False
+BB01607,Tamil Nadu,Red Cross,2012,True,False
+BB01608,Tamil Nadu,Red Cross,2012,False,True
+BB01609,Tamil Nadu,Government,2007,True,True
+BB01610,Tamil Nadu,Private,2017,True,False
+BB01611,Tamil Nadu,Government,2001,True,False
+BB01612,Tamil Nadu,Private,2010,False,False
+BB01613,Tamil Nadu,Private,2006,True,False
+BB01614,Tamil Nadu,Government,2003,True,False
+BB01615,Tamil Nadu,NGO/Charitable,1997,False,False
+BB01616,Tamil Nadu,Government,1995,True,True
+BB01617,Tamil Nadu,Private,2000,False,False
+BB01618,Tamil Nadu,NGO/Charitable,2013,True,False
+BB01619,Tamil Nadu,Government,1998,False,False
+BB01620,Tamil Nadu,Private,2009,False,False
+BB01621,Tamil Nadu,Government,2018,False,False
+BB01622,Tamil Nadu,Private,2005,True,True
+BB01623,Tamil Nadu,Red Cross,1995,True,True
+BB01624,Tamil Nadu,NGO/Charitable,2010,True,False
+BB01625,Tamil Nadu,Private,2004,True,False
+BB01626,Tamil Nadu,Red Cross,2004,True,False
+BB01627,Tamil Nadu,Private,2019,True,False
+BB01628,Tamil Nadu,Private,1997,True,False
+BB01629,Tamil Nadu,Private,2009,True,False
+BB01630,Tamil Nadu,Red Cross,2012,True,False
+BB01631,Tamil Nadu,NGO/Charitable,2002,False,False
+BB01632,Tamil Nadu,Private,2004,False,False
+BB01633,Tamil Nadu,NGO/Charitable,2003,True,True
+BB01634,Tamil Nadu,Government,2000,True,False
+BB01635,Tamil Nadu,Private,2016,True,False
+BB01636,Tamil Nadu,Private,2004,True,False
+BB01637,Tamil Nadu,Government,1996,False,False
+BB01638,Tamil Nadu,NGO/Charitable,2015,False,False
+BB01639,Tamil Nadu,Private,2005,False,False
+BB01640,Tamil Nadu,Government,2002,False,True
+BB01641,Tamil Nadu,Private,2011,True,False
+BB01642,Tamil Nadu,NGO/Charitable,2009,False,True
+BB01643,Tamil Nadu,Government,1998,False,False
+BB01644,Tamil Nadu,Private,2009,True,False
+BB01645,Tamil Nadu,Government,1998,False,False
+BB01646,Tamil Nadu,Private,2015,True,True
+BB01647,Tamil Nadu,Government,2013,True,False
+BB01648,Tamil Nadu,Government,2014,False,True
+BB01649,Tamil Nadu,Red Cross,1998,True,False
+BB01650,Tamil Nadu,Government,1996,False,False
+BB01651,Tamil Nadu,Government,2013,True,False
+BB01652,Tamil Nadu,NGO/Charitable,2017,False,False
+BB01653,Tamil Nadu,Private,1997,True,False
+BB01654,Tamil Nadu,Government,2016,False,False
+BB01655,Tamil Nadu,Private,1999,False,False
+BB01656,Tamil Nadu,Government,1995,True,False
+BB01657,Tamil Nadu,NGO/Charitable,2008,False,False
+BB01658,Tamil Nadu,Private,2016,True,False
+BB01659,Tamil Nadu,NGO/Charitable,2015,True,True
+BB01660,Tamil Nadu,Government,2013,False,False
+BB01661,Tamil Nadu,Private,2015,True,False
+BB01662,Tamil Nadu,Private,2011,False,True
+BB01663,Tamil Nadu,Government,2009,True,True
+BB01664,Tamil Nadu,NGO/Charitable,2003,False,False
+BB01665,Tamil Nadu,Private,2003,False,True
+BB01666,Tamil Nadu,Government,2015,True,False
+BB01667,Tamil Nadu,Government,2011,True,False
+BB01668,Tamil Nadu,Private,1997,True,False
+BB01669,Tamil Nadu,Private,2004,False,False
+BB01670,Tamil Nadu,Private,2002,True,False
+BB01671,Tamil Nadu,Private,2012,True,True
+BB01672,Tamil Nadu,Private,1999,True,False
+BB01673,Tamil Nadu,Private,2018,True,False
+BB01674,Tamil Nadu,Private,2011,False,False
+BB01675,Tamil Nadu,Private,2013,False,False
+BB01676,Tamil Nadu,Private,2002,False,False
+BB01677,Tamil Nadu,Private,2008,False,False
+BB01678,Tamil Nadu,NGO/Charitable,2006,False,False
+BB01679,Tamil Nadu,Private,2013,True,False
+BB01680,Tamil Nadu,Private,2012,False,False
+BB01681,Tamil Nadu,Red Cross,1996,False,False
+BB01682,Tamil Nadu,Government,2013,True,False
+BB01683,Tamil Nadu,NGO/Charitable,2007,False,False
+BB01684,Tamil Nadu,NGO/Charitable,1996,False,False
+BB01685,Tamil Nadu,Private,2003,False,False
+BB01686,Tamil Nadu,NGO/Charitable,2000,True,False
+BB01687,Tamil Nadu,Government,2003,True,False
+BB01688,Tamil Nadu,Government,1997,False,False
+BB01689,Tamil Nadu,Government,2008,False,False
+BB01690,Tamil Nadu,Government,2018,False,True
+BB01691,Tamil Nadu,Private,2008,False,False
+BB01692,Tamil Nadu,NGO/Charitable,2013,False,False
+BB01693,Tamil Nadu,Private,2012,True,False
+BB01694,Tamil Nadu,Private,2012,False,False
+BB01695,Tamil Nadu,Government,2012,True,False
+BB01696,Tamil Nadu,Private,2015,False,False
+BB01697,Tamil Nadu,Government,1999,False,False
+BB01698,Tamil Nadu,Private,2010,True,False
+BB01699,Tamil Nadu,Government,2014,True,False
+BB01700,Tamil Nadu,Government,2013,True,False
+BB01701,Tamil Nadu,Private,2010,False,False
+BB01702,Tamil Nadu,NGO/Charitable,2007,True,True
+BB01703,Tamil Nadu,Private,2001,False,False
+BB01704,Tamil Nadu,Private,1997,False,False
+BB01705,Tamil Nadu,Government,1996,True,False
+BB01706,Tamil Nadu,NGO/Charitable,2009,True,False
+BB01707,Tamil Nadu,Government,2019,False,False
+BB01708,Tamil Nadu,Private,2002,True,False
+BB01709,Tamil Nadu,Government,2000,True,False
+BB01710,Tamil Nadu,Private,2015,False,False
+BB01711,Tamil Nadu,Government,2019,False,False
+BB01712,Tamil Nadu,Government,2008,True,True
+BB01713,Tamil Nadu,Red Cross,2017,True,True
+BB01714,Tamil Nadu,NGO/Charitable,2012,False,False
+BB01715,Tamil Nadu,Government,2003,False,False
+BB01716,Tamil Nadu,Government,1998,True,False
+BB01717,Tamil Nadu,Private,2015,False,False
+BB01718,Tamil Nadu,Government,1998,True,False
+BB01719,Tamil Nadu,Private,2018,False,False
+BB01720,Tamil Nadu,NGO/Charitable,2002,True,False
+BB01721,Tamil Nadu,NGO/Charitable,1997,True,False
+BB01722,Tamil Nadu,NGO/Charitable,2007,True,False
+BB01723,Tamil Nadu,Red Cross,2005,True,True
+BB01724,Tamil Nadu,Private,2001,False,False
+BB01725,Tamil Nadu,NGO/Charitable,2013,True,False
+BB01726,Tamil Nadu,Government,2016,True,False
+BB01727,Tamil Nadu,Government,1995,False,False
+BB01728,Tamil Nadu,Private,2004,False,False
+BB01729,Tamil Nadu,Private,2019,True,False
+BB01730,Tamil Nadu,Government,2007,True,False
+BB01731,Tamil Nadu,Private,1998,True,True
+BB01732,Tamil Nadu,Private,2001,False,False
+BB01733,Tamil Nadu,Red Cross,2011,False,True
+BB01734,Tamil Nadu,Private,1997,True,False
+BB01735,Tamil Nadu,Government,2003,True,False
+BB01736,Tamil Nadu,Government,2012,True,False
+BB01737,Tamil Nadu,Government,1999,False,False
+BB01738,Tamil Nadu,Private,2017,True,False
+BB01739,Tamil Nadu,Private,1999,True,False
+BB01740,Tamil Nadu,Government,2013,True,False
+BB01741,Tamil Nadu,Private,2011,True,False
+BB01742,Tamil Nadu,NGO/Charitable,1995,True,False
+BB01743,Tamil Nadu,Government,2011,False,False
+BB01744,Tamil Nadu,Red Cross,1996,False,False
+BB01745,Tamil Nadu,Government,2002,False,False
+BB01746,Tamil Nadu,Private,2014,False,False
+BB01747,Tamil Nadu,NGO/Charitable,2014,True,False
+BB01748,Tamil Nadu,Private,1998,False,True
+BB01749,Tamil Nadu,NGO/Charitable,2002,False,False
+BB01750,Tamil Nadu,Private,2004,False,True
+BB01751,Tamil Nadu,Government,2000,False,True
+BB01752,Rajasthan,NGO/Charitable,2006,True,False
+BB01753,Rajasthan,Government,2000,True,False
+BB01754,Rajasthan,Government,1996,True,False
+BB01755,Rajasthan,NGO/Charitable,2004,False,False
+BB01756,Rajasthan,NGO/Charitable,2013,True,False
+BB01757,Rajasthan,Private,2004,True,False
+BB01758,Rajasthan,Private,2013,False,False
+BB01759,Rajasthan,NGO/Charitable,2012,False,False
+BB01760,Rajasthan,Government,2000,True,False
+BB01761,Rajasthan,Private,2004,False,False
+BB01762,Rajasthan,Red Cross,1998,True,False
+BB01763,Rajasthan,Government,2012,True,False
+BB01764,Rajasthan,Government,1996,True,False
+BB01765,Rajasthan,Private,2010,False,False
+BB01766,Rajasthan,NGO/Charitable,2014,True,True
+BB01767,Rajasthan,Private,2000,False,True
+BB01768,Rajasthan,Private,2003,True,True
+BB01769,Rajasthan,Government,1996,False,False
+BB01770,Rajasthan,Government,1999,False,False
+BB01771,Rajasthan,Red Cross,2004,False,False
+BB01772,Rajasthan,NGO/Charitable,2005,True,False
+BB01773,Rajasthan,Government,2012,True,False
+BB01774,Rajasthan,Private,2001,True,False
+BB01775,Rajasthan,Government,2008,True,False
+BB01776,Rajasthan,Government,2017,True,False
+BB01777,Rajasthan,Government,2003,True,False
+BB01778,Rajasthan,Government,2008,True,False
+BB01779,Rajasthan,NGO/Charitable,2019,True,False
+BB01780,Rajasthan,Private,2019,True,True
+BB01781,Rajasthan,NGO/Charitable,2010,False,False
+BB01782,Rajasthan,Government,1998,True,False
+BB01783,Rajasthan,Private,2019,True,False
+BB01784,Rajasthan,Government,2014,False,False
+BB01785,Rajasthan,Private,2014,False,True
+BB01786,Rajasthan,Private,1995,True,False
+BB01787,Rajasthan,Private,1999,False,False
+BB01788,Rajasthan,Government,2000,True,False
+BB01789,Rajasthan,Government,2004,True,False
+BB01790,Rajasthan,NGO/Charitable,2000,False,False
+BB01791,Rajasthan,Private,2009,True,False
+BB01792,Rajasthan,Government,2011,True,False
+BB01793,Rajasthan,NGO/Charitable,1999,True,False
+BB01794,Rajasthan,NGO/Charitable,2016,True,False
+BB01795,Rajasthan,Private,2018,False,False
+BB01796,Rajasthan,Private,2007,True,False
+BB01797,Rajasthan,Government,1996,False,False
+BB01798,Rajasthan,Government,1996,True,True
+BB01799,Rajasthan,Government,2011,True,False
+BB01800,Rajasthan,Private,2000,True,False
+BB01801,Rajasthan,Government,2002,True,True
+BB01802,Rajasthan,Private,2014,True,False
+BB01803,Rajasthan,NGO/Charitable,1999,True,False
+BB01804,Rajasthan,Private,2010,False,False
+BB01805,Rajasthan,Private,2001,False,False
+BB01806,Rajasthan,Government,2014,False,False
+BB01807,Rajasthan,Government,2014,True,True
+BB01808,Rajasthan,Government,2012,True,False
+BB01809,Rajasthan,Government,2016,True,False
+BB01810,Rajasthan,NGO/Charitable,2015,False,False
+BB01811,Rajasthan,NGO/Charitable,1996,False,False
+BB01812,Rajasthan,Private,2000,False,False
+BB01813,Rajasthan,Private,2010,False,False
+BB01814,Rajasthan,NGO/Charitable,2016,True,False
+BB01815,Rajasthan,Private,1996,False,False
+BB01816,Rajasthan,Private,1996,False,False
+BB01817,Rajasthan,Government,2010,True,False
+BB01818,Rajasthan,Private,1996,True,False
+BB01819,Rajasthan,Private,1999,True,True
+BB01820,Rajasthan,Red Cross,2005,True,False
+BB01821,Rajasthan,NGO/Charitable,2013,False,False
+BB01822,Rajasthan,Government,2015,True,True
+BB01823,Rajasthan,Government,2016,True,False
+BB01824,Rajasthan,Private,2008,True,True
+BB01825,Rajasthan,Private,2004,False,False
+BB01826,Rajasthan,Government,1996,True,False
+BB01827,Rajasthan,Private,1995,False,False
+BB01828,Rajasthan,Government,2018,True,False
+BB01829,Rajasthan,Private,1998,True,False
+BB01830,Rajasthan,NGO/Charitable,2012,True,False
+BB01831,Rajasthan,Government,2009,False,False
+BB01832,Rajasthan,NGO/Charitable,2014,True,False
+BB01833,Rajasthan,Government,2016,False,False
+BB01834,Rajasthan,NGO/Charitable,1999,False,False
+BB01835,Rajasthan,Government,2014,False,False
+BB01836,Rajasthan,Government,2002,False,False
+BB01837,Rajasthan,NGO/Charitable,1997,True,False
+BB01838,Rajasthan,Private,2001,True,False
+BB01839,Rajasthan,Government,2008,False,False
+BB01840,Rajasthan,Government,2019,False,False
+BB01841,Rajasthan,Private,2009,True,True
+BB01842,Rajasthan,Government,2004,True,False
+BB01843,Rajasthan,Government,2012,False,False
+BB01844,Rajasthan,NGO/Charitable,2014,True,False
+BB01845,Rajasthan,Government,2018,False,False
+BB01846,Rajasthan,Private,2003,True,False
+BB01847,Rajasthan,Private,2017,False,False
+BB01848,Rajasthan,Government,2002,True,False
+BB01849,Rajasthan,NGO/Charitable,1996,True,False
+BB01850,Rajasthan,NGO/Charitable,2015,True,True
+BB01851,Rajasthan,Private,2000,True,True
+BB01852,Rajasthan,Private,2014,False,False
+BB01853,Rajasthan,Government,2013,True,False
+BB01854,Rajasthan,Government,2007,False,False
+BB01855,Rajasthan,Government,2018,True,False
+BB01856,Rajasthan,Private,2019,True,False
+BB01857,Rajasthan,Government,2008,False,False
+BB01858,Rajasthan,NGO/Charitable,2002,True,False
+BB01859,Rajasthan,Private,2004,True,False
+BB01860,Rajasthan,Private,2002,False,False
+BB01861,Rajasthan,Private,2004,True,False
+BB01862,Rajasthan,Private,2001,False,False
+BB01863,Rajasthan,Government,1998,True,False
+BB01864,Rajasthan,Red Cross,2010,True,False
+BB01865,Rajasthan,NGO/Charitable,1998,True,False
+BB01866,Rajasthan,NGO/Charitable,2000,False,False
+BB01867,Rajasthan,Private,2007,False,False
+BB01868,Rajasthan,Private,2006,True,False
+BB01869,Rajasthan,Red Cross,2012,True,False
+BB01870,Rajasthan,Government,2010,False,False
+BB01871,Rajasthan,Government,2009,False,False
+BB01872,Rajasthan,Government,2003,True,True
+BB01873,Rajasthan,Government,1997,False,False
+BB01874,Rajasthan,Government,2016,True,False
+BB01875,Rajasthan,NGO/Charitable,2002,True,False
+BB01876,Rajasthan,Government,2017,True,False
+BB01877,Rajasthan,Private,2015,False,True
+BB01878,Rajasthan,Private,1995,False,False
+BB01879,Rajasthan,NGO/Charitable,2013,True,False
+BB01880,Rajasthan,Government,2009,True,False
+BB01881,Rajasthan,Private,2019,True,False
+BB01882,Rajasthan,NGO/Charitable,2019,False,True
+BB01883,Rajasthan,Private,2011,False,False
+BB01884,Rajasthan,NGO/Charitable,2017,False,False
+BB01885,Rajasthan,NGO/Charitable,2013,False,False
+BB01886,Rajasthan,Government,1995,True,False
+BB01887,Rajasthan,Private,1995,True,False
+BB01888,Rajasthan,NGO/Charitable,2014,False,False
+BB01889,Rajasthan,Government,2010,True,False
+BB01890,Rajasthan,NGO/Charitable,2002,True,True
+BB01891,Rajasthan,Government,2012,True,False
+BB01892,Rajasthan,Private,2005,False,False
+BB01893,Rajasthan,Government,2012,True,False
+BB01894,Rajasthan,NGO/Charitable,1998,True,False
+BB01895,Rajasthan,Government,1996,True,False
+BB01896,Rajasthan,Government,2012,False,False
+BB01897,Rajasthan,NGO/Charitable,2006,True,False
+BB01898,Rajasthan,Private,1996,False,False
+BB01899,Rajasthan,Government,2012,False,True
+BB01900,Rajasthan,Private,1999,False,False
+BB01901,Rajasthan,NGO/Charitable,1996,False,False
+BB01902,Rajasthan,Private,2001,False,True
+BB01903,Rajasthan,Private,2001,False,False
+BB01904,Rajasthan,Private,1999,True,False
+BB01905,Rajasthan,Private,2016,True,False
+BB01906,Rajasthan,Government,2006,True,False
+BB01907,Rajasthan,Private,2010,True,False
+BB01908,Rajasthan,Government,1997,False,False
+BB01909,Rajasthan,Private,2006,False,False
+BB01910,Rajasthan,Government,2018,True,False
+BB01911,Rajasthan,Private,2018,False,False
+BB01912,Rajasthan,Private,1997,False,False
+BB01913,Rajasthan,Private,2014,True,False
+BB01914,Rajasthan,Private,2006,False,True
+BB01915,Rajasthan,Private,1996,False,False
+BB01916,Rajasthan,Private,2005,False,False
+BB01917,Rajasthan,Government,1996,True,False
+BB01918,Rajasthan,NGO/Charitable,1998,True,False
+BB01919,Rajasthan,NGO/Charitable,1996,False,False
+BB01920,Rajasthan,Private,2013,True,False
+BB01921,Rajasthan,Government,2015,True,False
+BB01922,Rajasthan,Private,2005,False,False
+BB01923,Rajasthan,Government,2015,False,False
+BB01924,Rajasthan,Government,2000,True,False
+BB01925,Karnataka,Government,2010,True,False
+BB01926,Karnataka,Government,2019,False,False
+BB01927,Karnataka,Government,2011,False,True
+BB01928,Karnataka,Government,2010,True,False
+BB01929,Karnataka,Private,2004,False,False
+BB01930,Karnataka,Government,2006,False,False
+BB01931,Karnataka,Private,2007,False,False
+BB01932,Karnataka,Government,2010,True,False
+BB01933,Karnataka,NGO/Charitable,2013,False,False
+BB01934,Karnataka,Private,2017,True,False
+BB01935,Karnataka,Government,2000,False,False
+BB01936,Karnataka,Government,2002,True,False
+BB01937,Karnataka,Private,1997,True,False
+BB01938,Karnataka,NGO/Charitable,1995,True,True
+BB01939,Karnataka,NGO/Charitable,2008,True,False
+BB01940,Karnataka,Private,2011,False,True
+BB01941,Karnataka,Private,2005,False,False
+BB01942,Karnataka,Private,2017,False,False
+BB01943,Karnataka,Private,2008,True,False
+BB01944,Karnataka,Private,1997,True,False
+BB01945,Karnataka,Red Cross,2009,True,False
+BB01946,Karnataka,Private,2009,False,False
+BB01947,Karnataka,Private,1996,False,False
+BB01948,Karnataka,Private,2019,True,False
+BB01949,Karnataka,Government,1997,False,False
+BB01950,Karnataka,Government,2015,True,False
+BB01951,Karnataka,NGO/Charitable,2004,True,False
+BB01952,Karnataka,Private,2016,True,True
+BB01953,Karnataka,Private,1997,True,False
+BB01954,Karnataka,Private,1998,True,False
+BB01955,Karnataka,Government,2013,False,False
+BB01956,Karnataka,Government,2004,False,False
+BB01957,Karnataka,Government,2008,True,False
+BB01958,Karnataka,Private,2016,True,False
+BB01959,Karnataka,Private,2009,True,False
+BB01960,Karnataka,NGO/Charitable,2001,True,False
+BB01961,Karnataka,NGO/Charitable,2017,False,True
+BB01962,Karnataka,Private,2009,True,False
+BB01963,Karnataka,Private,2007,True,False
+BB01964,Karnataka,Private,2012,True,False
+BB01965,Karnataka,Private,2018,False,False
+BB01966,Karnataka,Government,2008,True,False
+BB01967,Karnataka,Government,2000,True,False
+BB01968,Karnataka,Government,2007,True,False
+BB01969,Karnataka,Private,1997,False,False
+BB01970,Karnataka,Private,2016,True,True
+BB01971,Karnataka,NGO/Charitable,2001,False,False
+BB01972,Karnataka,Government,2013,True,False
+BB01973,Karnataka,Private,2014,False,False
+BB01974,Karnataka,Private,1995,True,False
+BB01975,Karnataka,Government,1998,True,False
+BB01976,Karnataka,Government,2018,True,False
+BB01977,Karnataka,Private,2007,True,True
+BB01978,Karnataka,Government,2002,False,False
+BB01979,Karnataka,Government,2015,False,False
+BB01980,Karnataka,Government,1999,False,False
+BB01981,Karnataka,Government,2007,True,False
+BB01982,Karnataka,Government,2012,False,False
+BB01983,Karnataka,Government,1997,False,False
+BB01984,Karnataka,Private,2005,False,False
+BB01985,Karnataka,Red Cross,2019,True,False
+BB01986,Karnataka,Private,2010,True,False
+BB01987,Karnataka,NGO/Charitable,2019,True,False
+BB01988,Karnataka,Government,2014,True,False
+BB01989,Karnataka,Government,1997,False,False
+BB01990,Karnataka,Government,2013,True,False
+BB01991,Karnataka,Private,2005,True,False
+BB01992,Karnataka,Government,2005,True,False
+BB01993,Karnataka,Government,2013,False,False
+BB01994,Karnataka,Government,2013,False,False
+BB01995,Karnataka,NGO/Charitable,2009,True,True
+BB01996,Karnataka,Government,2005,False,False
+BB01997,Karnataka,Government,2012,True,True
+BB01998,Karnataka,Private,2017,True,False
+BB01999,Karnataka,Government,2017,True,False
+BB02000,Karnataka,Private,2016,False,False
+BB02001,Karnataka,Government,2001,False,False
+BB02002,Karnataka,Private,2015,False,False
+BB02003,Karnataka,Private,1996,False,False
+BB02004,Karnataka,NGO/Charitable,2003,True,False
+BB02005,Karnataka,NGO/Charitable,2008,True,False
+BB02006,Karnataka,NGO/Charitable,2009,False,False
+BB02007,Karnataka,NGO/Charitable,1996,True,True
+BB02008,Karnataka,Private,1995,False,False
+BB02009,Karnataka,Government,2011,False,False
+BB02010,Karnataka,Private,2007,False,False
+BB02011,Karnataka,Private,2014,False,True
+BB02012,Karnataka,Private,2007,True,False
+BB02013,Karnataka,Government,2010,False,False
+BB02014,Karnataka,Private,2003,False,False
+BB02015,Karnataka,Private,1998,False,False
+BB02016,Karnataka,NGO/Charitable,2006,True,False
+BB02017,Karnataka,Government,1998,True,False
+BB02018,Karnataka,Private,2018,True,False
+BB02019,Karnataka,Private,2007,False,False
+BB02020,Karnataka,Government,1996,False,False
+BB02021,Karnataka,Government,2000,True,False
+BB02022,Karnataka,Private,2017,False,False
+BB02023,Karnataka,Government,2012,False,False
+BB02024,Karnataka,Private,2018,False,False
+BB02025,Karnataka,Private,2018,True,False
+BB02026,Karnataka,Government,2002,True,False
+BB02027,Karnataka,Government,2000,False,False
+BB02028,Karnataka,Private,2000,True,False
+BB02029,Karnataka,Government,2006,False,True
+BB02030,Karnataka,Private,2011,False,False
+BB02031,Karnataka,Private,2011,False,False
+BB02032,Karnataka,Private,2000,True,False
+BB02033,Karnataka,Private,2017,False,False
+BB02034,Karnataka,Private,2008,False,False
+BB02035,Karnataka,Government,2014,True,False
+BB02036,Karnataka,Private,2004,True,False
+BB02037,Karnataka,Red Cross,2008,False,False
+BB02038,Karnataka,Private,2004,True,False
+BB02039,Karnataka,NGO/Charitable,2017,True,False
+BB02040,Karnataka,NGO/Charitable,2008,False,True
+BB02041,Karnataka,Government,2004,False,True
+BB02042,Karnataka,Red Cross,2014,False,False
+BB02043,Karnataka,NGO/Charitable,2004,False,False
+BB02044,Karnataka,NGO/Charitable,1999,True,False
+BB02045,Karnataka,Private,2005,True,False
+BB02046,Karnataka,Government,2008,True,True
+BB02047,Gujarat,Private,2016,True,False
+BB02048,Gujarat,Private,2017,True,True
+BB02049,Gujarat,Private,2011,False,False
+BB02050,Gujarat,Private,2003,False,True
+BB02051,Gujarat,Government,2016,True,False
+BB02052,Gujarat,Private,2007,False,False
+BB02053,Gujarat,Private,2008,True,False
+BB02054,Gujarat,Government,2003,False,False
+BB02055,Gujarat,Private,2004,False,False
+BB02056,Gujarat,Private,2004,True,False
+BB02057,Gujarat,Government,2004,True,False
+BB02058,Gujarat,Private,2004,True,False
+BB02059,Gujarat,Government,2006,True,False
+BB02060,Gujarat,Private,1995,False,False
+BB02061,Gujarat,NGO/Charitable,2006,False,False
+BB02062,Gujarat,Government,2011,False,False
+BB02063,Gujarat,NGO/Charitable,2011,True,False
+BB02064,Gujarat,Government,1996,True,False
+BB02065,Gujarat,Private,2002,False,False
+BB02066,Gujarat,Private,2010,False,False
+BB02067,Gujarat,Red Cross,1996,False,False
+BB02068,Gujarat,NGO/Charitable,2016,False,True
+BB02069,Gujarat,Private,2000,True,False
+BB02070,Gujarat,Private,1998,True,False
+BB02071,Gujarat,Government,2007,True,False
+BB02072,Gujarat,Private,1998,False,False
+BB02073,Gujarat,Private,2013,True,False
+BB02074,Gujarat,Government,2002,True,False
+BB02075,Gujarat,Government,2006,True,False
+BB02076,Gujarat,Private,2019,True,False
+BB02077,Gujarat,Private,2009,False,False
+BB02078,Gujarat,NGO/Charitable,1998,True,False
+BB02079,Gujarat,Government,2019,True,False
+BB02080,Gujarat,NGO/Charitable,2016,True,False
+BB02081,Gujarat,NGO/Charitable,2010,True,True
+BB02082,Gujarat,Red Cross,2016,True,True
+BB02083,Gujarat,Private,2006,False,False
+BB02084,Gujarat,Private,2017,True,False
+BB02085,Gujarat,Government,1995,True,False
+BB02086,Gujarat,Private,2015,False,False
+BB02087,Gujarat,Private,2009,True,False
+BB02088,Gujarat,NGO/Charitable,2019,False,False
+BB02089,Gujarat,Government,2010,False,False
+BB02090,Gujarat,Government,2003,True,False
+BB02091,Gujarat,Private,1995,False,False
+BB02092,Gujarat,Private,1999,False,False
+BB02093,Gujarat,NGO/Charitable,1998,True,False
+BB02094,Gujarat,Private,1999,True,False
+BB02095,Gujarat,NGO/Charitable,2007,True,False
+BB02096,Gujarat,NGO/Charitable,2008,True,True
+BB02097,Gujarat,Private,1999,True,False
+BB02098,Gujarat,Government,2004,True,False
+BB02099,Gujarat,Private,1996,False,False
+BB02100,Gujarat,NGO/Charitable,1997,True,True
+BB02101,Gujarat,Private,2005,True,False
+BB02102,Gujarat,Government,2011,False,True
+BB02103,Gujarat,NGO/Charitable,2012,True,False
+BB02104,Gujarat,Private,2009,True,False
+BB02105,Gujarat,Private,2002,True,False
+BB02106,Gujarat,Private,1995,False,False
+BB02107,Gujarat,Government,1996,False,False
+BB02108,Gujarat,NGO/Charitable,1997,True,False
+BB02109,Gujarat,Government,2002,True,False
+BB02110,Gujarat,Government,1999,True,False
+BB02111,Gujarat,NGO/Charitable,1995,False,False
+BB02112,Gujarat,Government,2015,False,False
+BB02113,Gujarat,Private,1997,False,False
+BB02114,Gujarat,NGO/Charitable,2014,True,False
+BB02115,Gujarat,Government,2011,False,False
+BB02116,Gujarat,Private,1998,True,False
+BB02117,Gujarat,Government,2004,False,False
+BB02118,Gujarat,Government,2014,True,False
+BB02119,Gujarat,Red Cross,2000,False,False
+BB02120,Gujarat,Government,2016,True,False
+BB02121,Gujarat,Private,2012,False,True
+BB02122,Gujarat,Private,2005,True,False
+BB02123,Gujarat,Red Cross,1997,True,False
+BB02124,Gujarat,Private,2005,True,False
+BB02125,Gujarat,Private,2016,False,False
+BB02126,Gujarat,Private,2006,True,True
+BB02127,Gujarat,Private,2002,False,False
+BB02128,Gujarat,Government,2011,False,False
+BB02129,Gujarat,Government,2002,True,False
+BB02130,Gujarat,Government,2018,False,False
+BB02131,Gujarat,Government,2003,True,False
+BB02132,Gujarat,Private,2018,False,False
+BB02133,Gujarat,NGO/Charitable,2000,True,True
+BB02134,Gujarat,Private,2000,True,False
+BB02135,Gujarat,Private,2015,True,False
+BB02136,Gujarat,NGO/Charitable,2000,True,False
+BB02137,Gujarat,Government,2009,True,False
+BB02138,Gujarat,Government,2011,True,False
+BB02139,Gujarat,Government,1999,True,False
+BB02140,Gujarat,Government,2015,False,False
+BB02141,Gujarat,Private,2014,True,False
+BB02142,Gujarat,Red Cross,2015,True,True
+BB02143,Gujarat,NGO/Charitable,2009,True,True
+BB02144,Gujarat,Government,2012,False,False
+BB02145,Gujarat,Government,2011,True,False
+BB02146,Gujarat,Government,2004,True,False
+BB02147,Gujarat,NGO/Charitable,2005,True,False
+BB02148,Gujarat,Government,2018,True,False
+BB02149,Gujarat,Private,2007,True,False
+BB02150,Gujarat,Private,2014,False,False
+BB02151,Gujarat,Private,1999,False,False
+BB02152,Gujarat,Private,2014,True,False
+BB02153,Gujarat,Government,1999,False,False
+BB02154,Gujarat,Government,2012,False,False
+BB02155,Gujarat,Government,2014,True,False
+BB02156,Gujarat,Government,2014,False,False
+BB02157,Gujarat,Private,2016,False,False
+BB02158,Gujarat,Government,2013,True,False
+BB02159,Gujarat,NGO/Charitable,2000,True,True
+BB02160,Gujarat,Government,2011,True,False
+BB02161,Gujarat,Private,2005,True,False
+BB02162,Gujarat,Red Cross,2017,True,False
+BB02163,Gujarat,Government,2017,False,False
+BB02164,Gujarat,Red Cross,1996,True,False
+BB02165,Gujarat,Private,2002,False,False
+BB02166,Gujarat,Government,2017,False,False
+BB02167,Gujarat,NGO/Charitable,2000,False,False
+BB02168,Gujarat,Red Cross,2000,False,False
+BB02169,Gujarat,Private,2012,False,False
+BB02170,Gujarat,Private,2000,False,False
+BB02171,Gujarat,Private,2011,True,False
+BB02172,Gujarat,Government,2019,True,False
+BB02173,Gujarat,Government,2017,True,False
+BB02174,Gujarat,NGO/Charitable,2010,False,False
+BB02175,Gujarat,Private,2018,True,False
+BB02176,Gujarat,Government,1995,False,False
+BB02177,Gujarat,Government,2008,False,False
+BB02178,Gujarat,NGO/Charitable,1997,True,False
+BB02179,Andhra Pradesh,Private,2010,True,False
+BB02180,Andhra Pradesh,Government,2006,False,True
+BB02181,Andhra Pradesh,Private,2007,False,False
+BB02182,Andhra Pradesh,Government,2008,True,False
+BB02183,Andhra Pradesh,Government,2009,True,False
+BB02184,Andhra Pradesh,Private,1997,True,True
+BB02185,Andhra Pradesh,Government,2011,True,False
+BB02186,Andhra Pradesh,Government,2003,True,False
+BB02187,Andhra Pradesh,Government,2003,False,False
+BB02188,Andhra Pradesh,Private,2000,False,False
+BB02189,Andhra Pradesh,Private,1998,True,False
+BB02190,Andhra Pradesh,Government,2013,True,False
+BB02191,Andhra Pradesh,Government,2010,True,False
+BB02192,Andhra Pradesh,NGO/Charitable,2003,True,False
+BB02193,Andhra Pradesh,NGO/Charitable,2002,True,True
+BB02194,Andhra Pradesh,Government,2007,False,False
+BB02195,Andhra Pradesh,Private,2011,True,False
+BB02196,Andhra Pradesh,Private,2008,True,False
+BB02197,Andhra Pradesh,Government,2015,False,True
+BB02198,Andhra Pradesh,Red Cross,1996,True,False
+BB02199,Andhra Pradesh,Government,2004,False,False
+BB02200,Andhra Pradesh,NGO/Charitable,1995,True,False
+BB02201,Andhra Pradesh,Private,2003,False,False
+BB02202,Andhra Pradesh,Private,2002,False,False
+BB02203,Andhra Pradesh,Private,1995,True,False
+BB02204,Andhra Pradesh,Private,1995,True,False
+BB02205,Andhra Pradesh,NGO/Charitable,2012,False,False
+BB02206,Andhra Pradesh,Government,2014,True,True
+BB02207,Andhra Pradesh,Government,2007,True,True
+BB02208,Andhra Pradesh,NGO/Charitable,2014,True,True
+BB02209,Andhra Pradesh,Government,2007,True,False
+BB02210,Andhra Pradesh,NGO/Charitable,1999,True,False
+BB02211,Andhra Pradesh,Government,2004,True,False
+BB02212,Andhra Pradesh,Government,2000,True,False
+BB02213,Andhra Pradesh,NGO/Charitable,2003,True,True
+BB02214,Andhra Pradesh,Government,1995,False,False
+BB02215,Andhra Pradesh,Private,2007,True,False
+BB02216,Andhra Pradesh,Private,1995,False,False
+BB02217,Andhra Pradesh,Private,1998,True,False
+BB02218,Andhra Pradesh,Government,1997,True,False
+BB02219,Andhra Pradesh,Private,1996,True,False
+BB02220,Andhra Pradesh,Private,2018,False,False
+BB02221,Andhra Pradesh,Red Cross,2006,True,True
+BB02222,Andhra Pradesh,Government,2004,True,False
+BB02223,Andhra Pradesh,Private,2015,True,False
+BB02224,Andhra Pradesh,Government,2018,True,False
+BB02225,Andhra Pradesh,Government,2012,True,True
+BB02226,Andhra Pradesh,Government,2014,True,False
+BB02227,Andhra Pradesh,Private,2005,True,False
+BB02228,Andhra Pradesh,NGO/Charitable,2017,True,False
+BB02229,Andhra Pradesh,Private,2001,True,False
+BB02230,Andhra Pradesh,Private,2011,False,False
+BB02231,Andhra Pradesh,Red Cross,2009,True,True
+BB02232,Andhra Pradesh,Private,2014,True,False
+BB02233,Andhra Pradesh,Red Cross,2000,True,False
+BB02234,Andhra Pradesh,NGO/Charitable,2002,False,False
+BB02235,Andhra Pradesh,Government,1997,False,False
+BB02236,Andhra Pradesh,NGO/Charitable,2019,False,False
+BB02237,Andhra Pradesh,Private,2001,False,False
+BB02238,Andhra Pradesh,Private,2006,True,False
+BB02239,Andhra Pradesh,Red Cross,2012,False,False
+BB02240,Andhra Pradesh,Government,2000,False,False
+BB02241,Andhra Pradesh,NGO/Charitable,2000,False,False
+BB02242,Andhra Pradesh,Private,1997,True,False
+BB02243,Andhra Pradesh,Government,2019,True,False
+BB02244,Andhra Pradesh,Government,1998,True,False
+BB02245,Andhra Pradesh,Private,1997,False,False
+BB02246,Andhra Pradesh,Government,2011,False,False
+BB02247,Andhra Pradesh,NGO/Charitable,2012,True,False
+BB02248,Andhra Pradesh,Private,2010,True,False
+BB02249,Andhra Pradesh,Private,2003,True,False
+BB02250,Andhra Pradesh,Government,2011,False,False
+BB02251,Andhra Pradesh,Private,2002,False,False
+BB02252,Andhra Pradesh,Government,2001,True,False
+BB02253,Andhra Pradesh,Government,2008,True,False
+BB02254,Andhra Pradesh,NGO/Charitable,2001,False,False
+BB02255,Andhra Pradesh,Private,1999,True,False
+BB02256,Andhra Pradesh,Government,2015,False,False
+BB02257,Andhra Pradesh,Private,2008,True,False
+BB02258,Andhra Pradesh,Private,2019,False,False
+BB02259,Andhra Pradesh,Private,2016,False,False
+BB02260,Andhra Pradesh,NGO/Charitable,2013,True,False
+BB02261,Andhra Pradesh,Government,2006,True,False
+BB02262,Andhra Pradesh,NGO/Charitable,2011,True,True
+BB02263,Andhra Pradesh,NGO/Charitable,2015,True,False
+BB02264,Andhra Pradesh,Private,2009,False,False
+BB02265,Andhra Pradesh,Government,2010,True,False
+BB02266,Andhra Pradesh,Private,2007,False,False
+BB02267,Andhra Pradesh,Private,2013,True,False
+BB02268,Andhra Pradesh,NGO/Charitable,2003,False,False
+BB02269,Andhra Pradesh,NGO/Charitable,2005,False,False
+BB02270,Andhra Pradesh,Government,2018,False,False
+BB02271,Andhra Pradesh,Private,1999,False,False
+BB02272,Andhra Pradesh,Red Cross,2003,False,True
+BB02273,Andhra Pradesh,NGO/Charitable,2019,False,True
+BB02274,Andhra Pradesh,Government,1996,True,False
+BB02275,Andhra Pradesh,Private,2015,True,False
+BB02276,Andhra Pradesh,Red Cross,2018,False,False
+BB02277,Andhra Pradesh,Government,1997,True,False
+BB02278,Odisha,Private,2002,False,False
+BB02279,Odisha,Private,2003,True,False
+BB02280,Odisha,Private,2000,False,False
+BB02281,Odisha,Red Cross,2004,True,False
+BB02282,Odisha,Private,2002,True,False
+BB02283,Odisha,Private,1995,False,False
+BB02284,Odisha,Private,2014,False,False
+BB02285,Odisha,Private,1998,False,False
+BB02286,Odisha,NGO/Charitable,2002,True,False
+BB02287,Odisha,Government,2015,False,False
+BB02288,Odisha,Government,1996,True,True
+BB02289,Odisha,NGO/Charitable,1999,True,False
+BB02290,Odisha,Private,2006,True,False
+BB02291,Odisha,Private,2016,True,False
+BB02292,Odisha,Red Cross,2013,False,False
+BB02293,Odisha,NGO/Charitable,2009,False,False
+BB02294,Odisha,Private,2002,False,False
+BB02295,Odisha,NGO/Charitable,2005,False,False
+BB02296,Odisha,Government,2017,False,False
+BB02297,Odisha,NGO/Charitable,1997,True,False
+BB02298,Odisha,Private,2016,False,False
+BB02299,Odisha,NGO/Charitable,2008,True,False
+BB02300,Odisha,Government,2010,False,False
+BB02301,Odisha,Government,2015,False,True
+BB02302,Odisha,Private,2002,True,False
+BB02303,Odisha,Private,2009,False,False
+BB02304,Odisha,NGO/Charitable,1999,False,True
+BB02305,Odisha,Private,1995,False,False
+BB02306,Odisha,Private,2006,True,False
+BB02307,Odisha,Government,2012,True,True
+BB02308,Odisha,NGO/Charitable,2016,False,False
+BB02309,Odisha,NGO/Charitable,1999,True,False
+BB02310,Odisha,Government,2004,True,False
+BB02311,Odisha,Private,1996,True,False
+BB02312,Odisha,Red Cross,1996,True,False
+BB02313,Odisha,Private,2018,True,False
+BB02314,Odisha,Private,1995,False,False
+BB02315,Odisha,Government,2007,True,False
+BB02316,Odisha,Government,1999,True,False
+BB02317,Odisha,Private,2000,False,False
+BB02318,Odisha,Private,2000,False,False
+BB02319,Odisha,Private,2014,True,False
+BB02320,Odisha,Government,2013,True,False
+BB02321,Odisha,Government,2001,True,False
+BB02322,Odisha,Private,2011,False,False
+BB02323,Odisha,NGO/Charitable,2005,True,False
+BB02324,Odisha,Government,2001,False,False
+BB02325,Odisha,Government,2013,True,False
+BB02326,Odisha,NGO/Charitable,1996,True,False
+BB02327,Odisha,NGO/Charitable,1996,True,False
+BB02328,Odisha,Private,1998,False,False
+BB02329,Odisha,NGO/Charitable,2008,True,False
+BB02330,Odisha,Red Cross,2001,True,False
+BB02331,Odisha,Private,2015,False,False
+BB02332,Odisha,Private,1997,False,False
+BB02333,Odisha,Government,2018,True,False
+BB02334,Odisha,Private,2002,True,False
+BB02335,Odisha,Private,2015,False,False
+BB02336,Odisha,Private,1998,False,False
+BB02337,Odisha,Private,2013,True,False
+BB02338,Odisha,NGO/Charitable,2010,False,False
+BB02339,Odisha,NGO/Charitable,2005,False,False
+BB02340,Odisha,Government,2008,False,False
+BB02341,Odisha,NGO/Charitable,2010,True,False
+BB02342,Odisha,Red Cross,2019,True,False
+BB02343,Odisha,Government,1995,True,False
+BB02344,Odisha,Government,2001,False,False
+BB02345,Odisha,NGO/Charitable,2014,False,True
+BB02346,Odisha,Government,1997,True,False
+BB02347,Odisha,Government,2002,True,True
+BB02348,Odisha,Private,2004,False,False
+BB02349,Odisha,NGO/Charitable,2009,False,False
+BB02350,Odisha,Private,2010,True,False
+BB02351,Odisha,Government,1996,False,False
+BB02352,Odisha,Government,2008,False,True
+BB02353,Odisha,NGO/Charitable,2014,True,True
+BB02354,Odisha,Government,2015,True,False
+BB02355,Odisha,Red Cross,2008,False,False
+BB02356,Odisha,Government,1996,False,False
+BB02357,Odisha,NGO/Charitable,2001,True,False
+BB02358,Odisha,Private,2010,True,False
+BB02359,Odisha,Private,2002,True,False
+BB02360,Odisha,Government,2003,True,False
+BB02361,Odisha,Private,1998,False,False
+BB02362,Odisha,Private,1997,True,True
+BB02363,Odisha,NGO/Charitable,1995,False,False
+BB02364,Odisha,NGO/Charitable,2012,True,False
+BB02365,Odisha,Private,2009,True,False
+BB02366,Odisha,Private,2004,True,False
+BB02367,Odisha,Government,1999,True,False
+BB02368,Odisha,Private,2007,True,False
+BB02369,Odisha,NGO/Charitable,1999,False,False
+BB02370,Odisha,Red Cross,2019,False,False
+BB02371,Odisha,NGO/Charitable,1998,False,False
+BB02372,Odisha,Government,2002,False,False
+BB02373,Odisha,NGO/Charitable,1997,True,False
+BB02374,Odisha,NGO/Charitable,2008,False,False
+BB02375,Odisha,Private,2007,False,False
+BB02376,Odisha,Private,2010,False,True
+BB02377,Odisha,Government,1995,False,False
+BB02378,Odisha,Private,1996,False,True
+BB02379,Odisha,Private,2000,False,True
+BB02380,Odisha,Government,2008,True,False
+BB02381,Telangana,Government,2000,True,False
+BB02382,Telangana,Government,2008,True,False
+BB02383,Telangana,Private,2014,False,False
+BB02384,Telangana,Private,2011,True,False
+BB02385,Telangana,Government,2016,False,False
+BB02386,Telangana,Government,2004,False,False
+BB02387,Telangana,NGO/Charitable,2017,False,False
+BB02388,Telangana,Government,1996,True,True
+BB02389,Telangana,Private,2004,True,False
+BB02390,Telangana,Government,2013,True,False
+BB02391,Telangana,Red Cross,2012,True,False
+BB02392,Telangana,NGO/Charitable,2017,True,False
+BB02393,Telangana,Government,1995,True,False
+BB02394,Telangana,Private,1998,True,False
+BB02395,Telangana,Private,1996,False,False
+BB02396,Telangana,NGO/Charitable,1996,True,False
+BB02397,Telangana,NGO/Charitable,2009,False,True
+BB02398,Telangana,Government,2012,True,False
+BB02399,Telangana,Government,1999,True,False
+BB02400,Telangana,Private,2013,False,True
+BB02401,Telangana,Private,2012,True,False
+BB02402,Telangana,NGO/Charitable,2017,False,False
+BB02403,Telangana,NGO/Charitable,1995,True,False
+BB02404,Telangana,Private,1999,False,False
+BB02405,Telangana,Government,2007,False,False
+BB02406,Telangana,Government,2000,True,False
+BB02407,Telangana,Red Cross,2012,False,False
+BB02408,Telangana,Private,1998,True,False
+BB02409,Telangana,Government,2014,True,False
+BB02410,Telangana,Private,2001,True,False
+BB02411,Telangana,Government,1999,True,False
+BB02412,Telangana,NGO/Charitable,2006,True,False
+BB02413,Telangana,NGO/Charitable,2016,True,False
+BB02414,Telangana,NGO/Charitable,2007,True,False
+BB02415,Telangana,NGO/Charitable,2009,True,False
+BB02416,Telangana,Government,1999,False,True
+BB02417,Telangana,Private,2014,True,False
+BB02418,Telangana,NGO/Charitable,1996,False,False
+BB02419,Telangana,NGO/Charitable,2009,False,False
+BB02420,Telangana,NGO/Charitable,2016,True,False
+BB02421,Telangana,Government,2002,False,False
+BB02422,Telangana,Government,2017,True,False
+BB02423,Telangana,Government,2011,False,False
+BB02424,Telangana,Private,1996,True,False
+BB02425,Telangana,Government,1999,True,False
+BB02426,Telangana,Private,2013,True,False
+BB02427,Telangana,Private,1996,True,False
+BB02428,Telangana,Private,2014,True,False
+BB02429,Telangana,Private,2010,True,False
+BB02430,Telangana,Government,2001,True,True
+BB02431,Telangana,Government,2014,False,True
+BB02432,Telangana,Private,2000,False,False
+BB02433,Telangana,Government,2013,True,False
+BB02434,Telangana,Red Cross,2001,True,False
+BB02435,Telangana,Government,2000,False,False
+BB02436,Telangana,Private,2015,True,False
+BB02437,Telangana,Government,2007,False,False
+BB02438,Telangana,Private,2006,True,False
+BB02439,Telangana,Government,2012,True,False
+BB02440,Telangana,NGO/Charitable,2012,False,False
+BB02441,Telangana,Government,1996,True,False
+BB02442,Telangana,Red Cross,2019,False,False
+BB02443,Telangana,NGO/Charitable,2003,True,False
+BB02444,Telangana,Private,2018,True,True
+BB02445,Telangana,Government,2017,False,False
+BB02446,Telangana,Private,2016,False,False
+BB02447,Telangana,NGO/Charitable,1999,False,False
+BB02448,Telangana,Government,2010,True,False
+BB02449,Telangana,Government,1998,True,False
+BB02450,Telangana,NGO/Charitable,2002,False,False
+BB02451,Telangana,Private,1995,False,False
+BB02452,Telangana,Government,2013,False,False
+BB02453,Telangana,NGO/Charitable,2011,True,False
+BB02454,Telangana,Private,2019,False,False
+BB02455,Telangana,Government,1999,True,False
+BB02456,Telangana,Red Cross,2018,True,False
+BB02457,Telangana,NGO/Charitable,2011,True,False
+BB02458,Telangana,Government,1997,False,False
+BB02459,Telangana,Government,2000,False,True
+BB02460,Telangana,Red Cross,2002,True,False
+BB02461,Kerala,NGO/Charitable,1995,False,False
+BB02462,Kerala,Red Cross,2005,False,False
+BB02463,Kerala,Government,2008,True,True
+BB02464,Kerala,NGO/Charitable,2009,True,False
+BB02465,Kerala,Private,2000,True,False
+BB02466,Kerala,NGO/Charitable,2006,True,False
+BB02467,Kerala,Private,2016,True,False
+BB02468,Kerala,Government,2007,False,False
+BB02469,Kerala,Red Cross,1999,False,False
+BB02470,Kerala,Red Cross,1999,False,True
+BB02471,Kerala,Private,2009,False,False
+BB02472,Kerala,Government,2008,True,False
+BB02473,Kerala,Government,2000,True,False
+BB02474,Kerala,NGO/Charitable,1997,False,True
+BB02475,Kerala,Private,2004,False,False
+BB02476,Kerala,NGO/Charitable,2008,True,False
+BB02477,Kerala,Private,2017,False,False
+BB02478,Kerala,Government,2013,False,False
+BB02479,Kerala,Private,2011,False,False
+BB02480,Kerala,NGO/Charitable,1997,True,False
+BB02481,Kerala,Private,2000,True,False
+BB02482,Kerala,Government,1999,True,False
+BB02483,Kerala,Red Cross,1996,True,False
+BB02484,Kerala,NGO/Charitable,2019,False,False
+BB02485,Kerala,NGO/Charitable,2018,False,False
+BB02486,Kerala,Red Cross,2009,True,False
+BB02487,Kerala,Private,2016,True,False
+BB02488,Kerala,Private,1998,True,False
+BB02489,Kerala,Private,2007,True,False
+BB02490,Kerala,Government,2011,False,False
+BB02491,Kerala,NGO/Charitable,2010,True,True
+BB02492,Kerala,NGO/Charitable,2018,True,False
+BB02493,Kerala,NGO/Charitable,2012,False,False
+BB02494,Kerala,NGO/Charitable,1995,False,False
+BB02495,Kerala,Private,1997,True,False
+BB02496,Kerala,Government,1995,True,True
+BB02497,Kerala,Red Cross,2017,False,False
+BB02498,Kerala,Private,2003,True,False
+BB02499,Kerala,NGO/Charitable,2009,False,True
+BB02500,Kerala,NGO/Charitable,2019,True,False
+BB02501,Kerala,Government,2018,True,False
+BB02502,Kerala,Private,2003,False,False
+BB02503,Kerala,Government,2017,False,False
+BB02504,Kerala,Private,2004,True,False
+BB02505,Kerala,NGO/Charitable,2019,False,False
+BB02506,Kerala,Private,2017,True,False
+BB02507,Kerala,Government,1998,True,False
+BB02508,Kerala,Government,2018,False,False
+BB02509,Kerala,Government,1998,True,False
+BB02510,Kerala,Private,2019,True,False
+BB02511,Kerala,NGO/Charitable,1998,True,False
+BB02512,Kerala,Government,2019,True,False
+BB02513,Kerala,Government,2006,True,False
+BB02514,Kerala,NGO/Charitable,2012,True,False
+BB02515,Kerala,Private,2011,True,False
+BB02516,Kerala,Government,2014,False,False
+BB02517,Kerala,Red Cross,2005,True,False
+BB02518,Kerala,Government,2017,False,False
+BB02519,Kerala,Government,1999,True,False
+BB02520,Kerala,Private,2001,True,True
+BB02521,Kerala,Government,2003,True,False
+BB02522,Kerala,Private,2002,False,False
+BB02523,Kerala,Government,2011,False,False
+BB02524,Kerala,Private,2009,True,False
+BB02525,Kerala,Private,2018,True,False
+BB02526,Kerala,Private,2012,False,False
+BB02527,Kerala,Private,2016,True,False
+BB02528,Kerala,NGO/Charitable,2002,True,False
+BB02529,Kerala,Government,2010,True,False
+BB02530,Kerala,Private,2001,False,True
+BB02531,Kerala,Government,2002,True,False
+BB02532,Kerala,Private,2016,False,False
+BB02533,Kerala,Government,1997,False,True
+BB02534,Kerala,Private,2011,True,False
+BB02535,Kerala,Private,1997,True,False
+BB02536,Kerala,Private,2015,True,False
+BB02537,Kerala,Private,1995,False,False
+BB02538,Kerala,Government,2005,False,True
+BB02539,Kerala,NGO/Charitable,2002,True,True
+BB02540,Kerala,Government,2015,True,False
+BB02541,Kerala,Government,1997,True,False
+BB02542,Kerala,Private,2015,False,True
+BB02543,Kerala,NGO/Charitable,2002,True,False
+BB02544,Kerala,Government,2017,False,False
+BB02545,Kerala,NGO/Charitable,1996,True,False
+BB02546,Kerala,Private,1999,True,False
+BB02547,Kerala,Private,2017,False,False
+BB02548,Kerala,Government,2016,False,False
+BB02549,Kerala,Private,2011,False,False
+BB02550,Kerala,Private,1996,False,False
+BB02551,Kerala,Private,1996,True,False
+BB02552,Kerala,NGO/Charitable,2015,True,False
+BB02553,Kerala,Government,2011,True,False
+BB02554,Kerala,Private,2008,False,False
+BB02555,Jharkhand,Red Cross,2010,True,False
+BB02556,Jharkhand,Private,1999,True,False
+BB02557,Jharkhand,Private,2019,False,False
+BB02558,Jharkhand,Government,2008,False,False
+BB02559,Jharkhand,Private,1997,False,False
+BB02560,Jharkhand,Government,2019,True,False
+BB02561,Jharkhand,Private,2012,True,False
+BB02562,Jharkhand,Government,2005,False,False
+BB02563,Jharkhand,NGO/Charitable,2017,False,False
+BB02564,Jharkhand,Government,1995,True,False
+BB02565,Jharkhand,Private,2004,True,False
+BB02566,Jharkhand,Government,2005,False,True
+BB02567,Jharkhand,Government,2008,True,False
+BB02568,Jharkhand,NGO/Charitable,2019,True,False
+BB02569,Jharkhand,NGO/Charitable,2011,True,False
+BB02570,Jharkhand,Private,2012,True,True
+BB02571,Jharkhand,NGO/Charitable,1997,True,False
+BB02572,Jharkhand,Private,2006,False,False
+BB02573,Jharkhand,Private,2005,True,False
+BB02574,Jharkhand,Government,1995,False,False
+BB02575,Jharkhand,Private,2007,True,False
+BB02576,Jharkhand,NGO/Charitable,2002,False,False
+BB02577,Jharkhand,NGO/Charitable,2016,False,False
+BB02578,Jharkhand,Government,2012,False,False
+BB02579,Jharkhand,Private,2018,False,False
+BB02580,Jharkhand,Private,2015,True,False
+BB02581,Jharkhand,Private,2019,True,False
+BB02582,Jharkhand,Private,2004,False,False
+BB02583,Jharkhand,Private,2016,False,False
+BB02584,Jharkhand,NGO/Charitable,2018,True,False
+BB02585,Jharkhand,Private,1995,False,False
+BB02586,Jharkhand,Private,2000,True,False
+BB02587,Jharkhand,NGO/Charitable,2010,False,False
+BB02588,Jharkhand,Government,2010,False,False
+BB02589,Jharkhand,Private,2014,True,False
+BB02590,Jharkhand,NGO/Charitable,2014,True,False
+BB02591,Jharkhand,Private,2019,True,False
+BB02592,Jharkhand,Private,1998,False,False
+BB02593,Jharkhand,Private,2009,True,False
+BB02594,Jharkhand,Government,2003,False,False
+BB02595,Jharkhand,Government,2006,False,True
+BB02596,Jharkhand,Private,2005,False,False
+BB02597,Jharkhand,Private,2006,True,False
+BB02598,Jharkhand,NGO/Charitable,2005,True,True
+BB02599,Jharkhand,Government,2007,False,False
+BB02600,Jharkhand,NGO/Charitable,2008,False,False
+BB02601,Jharkhand,Private,1995,False,False
+BB02602,Jharkhand,Private,1999,True,False
+BB02603,Jharkhand,Government,1996,False,False
+BB02604,Jharkhand,NGO/Charitable,2004,True,False
+BB02605,Jharkhand,Private,2009,True,False
+BB02606,Jharkhand,NGO/Charitable,1998,True,False
+BB02607,Jharkhand,NGO/Charitable,1996,False,False
+BB02608,Jharkhand,Red Cross,2016,True,False
+BB02609,Jharkhand,Red Cross,2007,False,False
+BB02610,Jharkhand,Private,1997,True,False
+BB02611,Jharkhand,Government,2002,False,False
+BB02612,Jharkhand,Private,2003,False,False
+BB02613,Jharkhand,Private,2012,False,False
+BB02614,Jharkhand,Private,1996,True,False
+BB02615,Jharkhand,Private,2007,True,False
+BB02616,Jharkhand,Government,1996,True,False
+BB02617,Jharkhand,Government,2002,False,False
+BB02618,Jharkhand,Government,1999,False,False
+BB02619,Jharkhand,Red Cross,2013,True,False
+BB02620,Jharkhand,Private,2004,True,True
+BB02621,Jharkhand,Government,2008,True,False
+BB02622,Jharkhand,Private,1997,False,False
+BB02623,Jharkhand,Government,1998,False,False
+BB02624,Jharkhand,Private,2005,True,False
+BB02625,Jharkhand,NGO/Charitable,2015,False,False
+BB02626,Jharkhand,Government,2004,True,True
+BB02627,Jharkhand,Private,2010,True,False
+BB02628,Assam,Private,2014,False,False
+BB02629,Assam,Private,1999,True,False
+BB02630,Assam,Government,2019,False,False
+BB02631,Assam,Private,2004,True,False
+BB02632,Assam,Private,2012,False,False
+BB02633,Assam,Government,2002,True,False
+BB02634,Assam,Private,2011,True,False
+BB02635,Assam,Government,2019,False,False
+BB02636,Assam,NGO/Charitable,2018,True,False
+BB02637,Assam,NGO/Charitable,2016,False,True
+BB02638,Assam,Private,2000,True,False
+BB02639,Assam,Private,2001,False,False
+BB02640,Assam,Government,2007,False,False
+BB02641,Assam,NGO/Charitable,2013,True,False
+BB02642,Assam,Red Cross,1995,False,False
+BB02643,Assam,Private,2019,True,False
+BB02644,Assam,Government,2017,True,False
+BB02645,Assam,Red Cross,2004,False,False
+BB02646,Assam,Red Cross,1996,False,False
+BB02647,Assam,Government,2006,False,False
+BB02648,Assam,Private,2002,True,False
+BB02649,Assam,Private,2015,False,False
+BB02650,Assam,Government,2018,False,False
+BB02651,Assam,Private,2001,False,False
+BB02652,Assam,NGO/Charitable,2014,False,False
+BB02653,Assam,NGO/Charitable,2003,False,False
+BB02654,Assam,Red Cross,2018,False,False
+BB02655,Assam,Government,2018,True,True
+BB02656,Assam,Private,2000,False,False
+BB02657,Assam,Private,1997,False,False
+BB02658,Assam,NGO/Charitable,2015,False,True
+BB02659,Assam,NGO/Charitable,2000,False,False
+BB02660,Assam,NGO/Charitable,2018,True,False
+BB02661,Assam,Red Cross,2010,False,False
+BB02662,Assam,Private,1997,True,False
+BB02663,Assam,Government,1996,True,False
+BB02664,Assam,Red Cross,2001,True,False
+BB02665,Assam,Private,2015,True,False
+BB02666,Assam,Government,2009,True,True
+BB02667,Assam,NGO/Charitable,2010,True,False
+BB02668,Assam,Private,2004,True,False
+BB02669,Assam,NGO/Charitable,2008,True,False
+BB02670,Assam,Private,2007,False,False
+BB02671,Assam,Private,2016,False,False
+BB02672,Assam,Government,2010,False,False
+BB02673,Assam,Government,2018,True,False
+BB02674,Assam,Private,1997,False,False
+BB02675,Assam,Government,2002,False,False
+BB02676,Assam,Red Cross,2010,False,False
+BB02677,Assam,Government,2005,True,False
+BB02678,Assam,Private,2012,True,False
+BB02679,Assam,NGO/Charitable,2001,True,True
+BB02680,Assam,NGO/Charitable,1998,True,False
+BB02681,Assam,Government,1998,True,False
+BB02682,Assam,Government,2000,False,True
+BB02683,Assam,Government,2019,True,False
+BB02684,Assam,Private,2005,False,False
+BB02685,Assam,Government,2012,True,False
+BB02686,Assam,Private,2005,False,False
+BB02687,Assam,Private,2003,False,False
+BB02688,Assam,Private,2007,True,False
+BB02689,Assam,Private,2018,True,False
+BB02690,Assam,NGO/Charitable,2009,False,False
+BB02691,Assam,Government,2009,True,False
+BB02692,Assam,Red Cross,2012,True,False
+BB02693,Assam,Government,2007,True,False
+BB02694,Assam,Government,1995,False,False
+BB02695,Assam,Private,2002,False,False
+BB02696,Assam,Government,2018,True,False
+BB02697,Assam,Red Cross,2018,False,False
+BB02698,Assam,Government,2011,True,False
+BB02699,Assam,Private,1995,True,False
+BB02700,Assam,Private,2008,True,False
+BB02701,Assam,Government,2011,False,False
+BB02702,Assam,Private,2008,True,False
+BB02703,Assam,Government,2002,True,False
+BB02704,Assam,Government,2000,False,False
+BB02705,Assam,Government,2004,False,False
+BB02706,Assam,Private,1995,True,False
+BB02707,Assam,Government,1996,True,False
+BB02708,Assam,Private,2001,False,False
+BB02709,Assam,NGO/Charitable,2013,False,False
+BB02710,Assam,Government,2001,True,False
+BB02711,Assam,NGO/Charitable,2011,True,False
+BB02712,Assam,Private,2005,False,False
+BB02713,Assam,Government,2004,True,False
+BB02714,Assam,Government,2006,True,False
+BB02715,Assam,Government,1995,False,False
+BB02716,Assam,Government,1995,True,False
+BB02717,Assam,NGO/Charitable,2017,False,False
+BB02718,Assam,Red Cross,2000,True,False
+BB02719,Assam,Private,1997,True,True
+BB02720,Assam,Private,2006,True,False
+BB02721,Assam,Government,2002,True,False
+BB02722,Assam,Private,1997,False,False
+BB02723,Assam,Government,2008,True,False
+BB02724,Punjab,Government,2013,False,False
+BB02725,Punjab,Private,2014,False,False
+BB02726,Punjab,Government,2008,False,True
+BB02727,Punjab,Government,1996,True,False
+BB02728,Punjab,Government,1996,False,False
+BB02729,Punjab,Government,2014,False,False
+BB02730,Punjab,Red Cross,2005,False,False
+BB02731,Punjab,Private,2002,True,False
+BB02732,Punjab,Private,2011,True,False
+BB02733,Punjab,NGO/Charitable,2008,False,False
+BB02734,Punjab,Private,2017,True,False
+BB02735,Punjab,Private,1996,False,False
+BB02736,Punjab,Government,2003,True,False
+BB02737,Punjab,NGO/Charitable,2010,False,True
+BB02738,Punjab,NGO/Charitable,1996,True,True
+BB02739,Punjab,Private,2013,True,False
+BB02740,Punjab,Private,1999,False,False
+BB02741,Punjab,Private,2004,True,False
+BB02742,Punjab,Private,2019,True,True
+BB02743,Punjab,NGO/Charitable,2009,True,False
+BB02744,Punjab,Red Cross,2018,False,False
+BB02745,Punjab,Private,2010,True,False
+BB02746,Punjab,Private,2002,True,False
+BB02747,Punjab,Government,2008,True,False
+BB02748,Punjab,NGO/Charitable,2011,True,False
+BB02749,Punjab,NGO/Charitable,2007,True,True
+BB02750,Punjab,NGO/Charitable,2011,True,False
+BB02751,Punjab,Government,2017,False,False
+BB02752,Punjab,Government,2000,True,False
+BB02753,Punjab,Government,2003,True,False
+BB02754,Punjab,Private,2016,True,False
+BB02755,Punjab,Private,1998,True,False
+BB02756,Punjab,Red Cross,1999,True,False
+BB02757,Punjab,Red Cross,1997,True,False
+BB02758,Punjab,Government,2012,True,False
+BB02759,Punjab,Red Cross,2004,False,False
+BB02760,Punjab,Government,2017,False,False
+BB02761,Punjab,NGO/Charitable,2004,False,False
+BB02762,Punjab,Government,2010,True,False
+BB02763,Punjab,Private,2019,True,False
+BB02764,Punjab,NGO/Charitable,2017,True,False
+BB02765,Punjab,Private,1995,False,False
+BB02766,Punjab,Government,2005,False,False
+BB02767,Punjab,Government,1999,True,False
+BB02768,Punjab,Private,2007,True,False
+BB02769,Punjab,Private,2013,False,False
+BB02770,Punjab,Private,2008,False,False
+BB02771,Punjab,Private,2019,False,False
+BB02772,Punjab,Government,2001,True,False
+BB02773,Punjab,Private,2003,True,False
+BB02774,Punjab,Red Cross,2005,False,False
+BB02775,Punjab,Government,2004,False,True
+BB02776,Punjab,Private,1997,True,True
+BB02777,Punjab,Government,2011,True,False
+BB02778,Punjab,NGO/Charitable,2012,True,False
+BB02779,Punjab,Private,2003,False,False
+BB02780,Punjab,Government,2009,False,False
+BB02781,Punjab,Government,2012,True,False
+BB02782,Punjab,Government,2010,True,False
+BB02783,Punjab,Private,2014,False,False
+BB02784,Punjab,NGO/Charitable,2009,True,False
+BB02785,Punjab,NGO/Charitable,1997,True,True
+BB02786,Punjab,Government,2003,True,False
+BB02787,Punjab,Private,2014,False,False
+BB02788,Punjab,NGO/Charitable,2012,False,False
+BB02789,Punjab,Private,2010,False,False
+BB02790,Punjab,NGO/Charitable,2005,False,False
+BB02791,Punjab,NGO/Charitable,1999,True,False
+BB02792,Punjab,NGO/Charitable,1998,False,False
+BB02793,Punjab,Red Cross,1995,True,False
+BB02794,Punjab,Government,2011,False,False
+BB02795,Punjab,NGO/Charitable,1999,True,False
+BB02796,Punjab,Private,2008,False,False
+BB02797,Punjab,Government,2006,False,False
+BB02798,Punjab,Private,2003,True,False
+BB02799,Punjab,Government,2008,False,False
+BB02800,Punjab,Government,2016,True,False
+BB02801,Punjab,Private,2002,True,False
+BB02802,Punjab,Government,2002,True,True
+BB02803,Punjab,Government,1998,False,False
+BB02804,Punjab,Government,2007,False,False
+BB02805,Punjab,Government,1996,True,False
+BB02806,Punjab,Government,2007,True,False
+BB02807,Punjab,Red Cross,2018,False,False
+BB02808,Punjab,NGO/Charitable,2002,False,False
+BB02809,Punjab,NGO/Charitable,2019,False,False
+BB02810,Chhattisgarh,Government,2002,True,False
+BB02811,Chhattisgarh,NGO/Charitable,2010,True,False
+BB02812,Chhattisgarh,NGO/Charitable,2005,True,False
+BB02813,Chhattisgarh,Private,1998,False,False
+BB02814,Chhattisgarh,Private,2000,True,True
+BB02815,Chhattisgarh,NGO/Charitable,2006,False,False
+BB02816,Chhattisgarh,Private,2007,True,False
+BB02817,Chhattisgarh,Private,2008,True,False
+BB02818,Chhattisgarh,Private,2012,False,False
+BB02819,Chhattisgarh,Private,2009,True,False
+BB02820,Chhattisgarh,Government,2016,False,False
+BB02821,Chhattisgarh,Red Cross,2004,False,False
+BB02822,Chhattisgarh,Private,2016,True,False
+BB02823,Chhattisgarh,Private,2011,False,False
+BB02824,Chhattisgarh,NGO/Charitable,2014,False,False
+BB02825,Chhattisgarh,NGO/Charitable,2012,True,False
+BB02826,Chhattisgarh,Government,2016,False,True
+BB02827,Chhattisgarh,Private,2000,False,False
+BB02828,Chhattisgarh,Government,2014,True,False
+BB02829,Chhattisgarh,NGO/Charitable,1999,False,False
+BB02830,Chhattisgarh,Government,1996,True,False
+BB02831,Chhattisgarh,NGO/Charitable,2017,True,False
+BB02832,Chhattisgarh,Government,2018,True,False
+BB02833,Chhattisgarh,Government,2017,True,False
+BB02834,Chhattisgarh,Government,2008,False,False
+BB02835,Chhattisgarh,Government,2013,False,False
+BB02836,Chhattisgarh,NGO/Charitable,2015,True,False
+BB02837,Chhattisgarh,Private,2016,True,False
+BB02838,Chhattisgarh,NGO/Charitable,1996,True,False
+BB02839,Chhattisgarh,NGO/Charitable,2015,True,False
+BB02840,Chhattisgarh,NGO/Charitable,2007,True,False
+BB02841,Chhattisgarh,Private,2011,False,False
+BB02842,Chhattisgarh,NGO/Charitable,2003,False,False
+BB02843,Chhattisgarh,NGO/Charitable,2008,True,True
+BB02844,Chhattisgarh,Government,2012,False,False
+BB02845,Chhattisgarh,Private,2001,False,False
+BB02846,Chhattisgarh,Private,1996,False,False
+BB02847,Chhattisgarh,NGO/Charitable,2009,True,False
+BB02848,Chhattisgarh,Private,2005,True,False
+BB02849,Chhattisgarh,NGO/Charitable,2008,False,False
+BB02850,Chhattisgarh,Private,1999,True,False
+BB02851,Chhattisgarh,NGO/Charitable,2016,True,False
+BB02852,Chhattisgarh,Private,1999,True,False
+BB02853,Chhattisgarh,Private,1997,True,False
+BB02854,Chhattisgarh,Government,1995,True,False
+BB02855,Chhattisgarh,Government,2013,True,False
+BB02856,Chhattisgarh,NGO/Charitable,2013,True,False
+BB02857,Chhattisgarh,Private,2013,True,False
+BB02858,Chhattisgarh,NGO/Charitable,2013,True,False
+BB02859,Chhattisgarh,NGO/Charitable,2018,False,False
+BB02860,Chhattisgarh,Private,1996,True,False
+BB02861,Chhattisgarh,Private,2004,True,False
+BB02862,Chhattisgarh,NGO/Charitable,2002,True,False
+BB02863,Chhattisgarh,Red Cross,1998,True,False
+BB02864,Chhattisgarh,Private,2010,False,False
+BB02865,Chhattisgarh,Red Cross,2015,False,False
+BB02866,Chhattisgarh,Government,2014,True,False
+BB02867,Chhattisgarh,Government,2015,False,False
+BB02868,Haryana,Private,2017,True,False
+BB02869,Haryana,Private,2009,True,False
+BB02870,Haryana,Private,2013,False,True
+BB02871,Haryana,Government,2007,False,False
+BB02872,Haryana,NGO/Charitable,2007,False,False
+BB02873,Haryana,NGO/Charitable,2015,True,False
+BB02874,Haryana,Government,2002,True,False
+BB02875,Haryana,Private,1998,False,False
+BB02876,Haryana,Private,2017,False,True
+BB02877,Haryana,Private,1997,False,False
+BB02878,Haryana,Private,2011,True,False
+BB02879,Haryana,Government,2004,True,False
+BB02880,Haryana,NGO/Charitable,1998,False,False
+BB02881,Haryana,Government,2001,True,False
+BB02882,Haryana,Private,2013,False,False
+BB02883,Haryana,Government,1996,False,True
+BB02884,Haryana,Government,2004,False,False
+BB02885,Haryana,NGO/Charitable,2011,True,False
+BB02886,Haryana,NGO/Charitable,2018,False,False
+BB02887,Haryana,NGO/Charitable,1998,True,False
+BB02888,Haryana,Private,2001,True,False
+BB02889,Haryana,Private,2004,False,True
+BB02890,Haryana,Government,2009,False,False
+BB02891,Haryana,Government,2000,True,False
+BB02892,Haryana,Private,2019,True,False
+BB02893,Haryana,Private,1997,False,False
+BB02894,Haryana,Government,2000,True,False
+BB02895,Haryana,Government,2008,False,False
+BB02896,Haryana,Private,2008,False,False
+BB02897,Haryana,Red Cross,2018,True,False
+BB02898,Haryana,Government,2004,True,False
+BB02899,Haryana,Private,2004,True,False
+BB02900,Haryana,Red Cross,2016,True,False
+BB02901,Haryana,Government,2004,True,False
+BB02902,Haryana,Red Cross,2004,False,False
+BB02903,Haryana,NGO/Charitable,1996,True,False
+BB02904,Haryana,Private,2012,True,False
+BB02905,Haryana,Government,2006,False,False
+BB02906,Haryana,Government,2008,False,False
+BB02907,Haryana,Government,2001,True,False
+BB02908,Haryana,Private,2007,True,True
+BB02909,Haryana,Private,2002,True,True
+BB02910,Haryana,Private,2014,True,False
+BB02911,Haryana,Government,2019,False,False
+BB02912,Haryana,Government,1999,True,False
+BB02913,Haryana,NGO/Charitable,2018,False,False
+BB02914,Haryana,NGO/Charitable,2006,True,False
+BB02915,Haryana,Government,2012,True,False
+BB02916,Haryana,Government,2004,False,False
+BB02917,Haryana,Private,2015,False,False
+BB02918,Haryana,Red Cross,1997,True,False
+BB02919,Haryana,Private,2000,True,False
+BB02920,Haryana,NGO/Charitable,2013,True,False
+BB02921,Haryana,Government,2019,True,False
+BB02922,Haryana,Private,2010,True,False
+BB02923,Haryana,Government,2019,False,False
+BB02924,Haryana,Government,1996,True,False
+BB02925,Haryana,Government,2005,False,False
+BB02926,Haryana,Government,2015,True,False
+BB02927,Haryana,NGO/Charitable,2002,False,False
+BB02928,Haryana,Private,2015,False,False
+BB02929,Haryana,Government,2009,True,False
+BB02930,Haryana,Red Cross,2009,True,False
+BB02931,Haryana,NGO/Charitable,2005,False,False
+BB02932,Haryana,Private,2009,False,False
+BB02933,Haryana,Private,2015,False,False
+BB02934,Haryana,Government,2014,False,False
+BB02935,Haryana,Private,2015,False,False
+BB02936,Haryana,Government,2009,True,False
+BB02937,Haryana,Government,2017,True,False
+BB02938,Haryana,NGO/Charitable,2012,False,False
+BB02939,Haryana,Government,2011,True,False
+BB02940,Haryana,Private,2017,False,False
+BB02941,Haryana,Government,2005,True,False
+BB02942,Haryana,NGO/Charitable,2004,False,False
+BB02943,Delhi,Private,2007,True,False
+BB02944,Delhi,Private,2003,True,False
+BB02945,Delhi,NGO/Charitable,2002,True,False
+BB02946,Delhi,Government,2016,True,False
+BB02947,Delhi,Government,2016,True,True
+BB02948,Delhi,Private,2015,False,False
+BB02949,Delhi,Private,2016,False,False
+BB02950,Delhi,Government,2002,True,False
+BB02951,Delhi,Private,2014,True,True
+BB02952,Delhi,Government,1996,False,False
+BB02953,Delhi,Private,2005,False,False
+BB02954,Delhi,Private,1996,True,False
+BB02955,Delhi,Government,2000,False,True
+BB02956,Delhi,Private,2015,False,True
+BB02957,Delhi,Private,2013,False,False
+BB02958,Delhi,Government,2008,False,False
+BB02959,Delhi,Government,2008,False,False
+BB02960,Delhi,Red Cross,2015,True,False
+BB02961,Delhi,Government,2001,False,False
+BB02962,Delhi,NGO/Charitable,2015,True,False
+BB02963,Delhi,NGO/Charitable,1998,True,True
+BB02964,Delhi,Government,2004,False,False
+BB02965,Delhi,Government,2013,False,False
+BB02966,Delhi,Red Cross,2006,False,False
+BB02967,Delhi,NGO/Charitable,2000,False,False
+BB02968,Delhi,Private,2006,True,True
+BB02969,Delhi,NGO/Charitable,2012,True,True
+BB02970,Delhi,Red Cross,2004,False,False
+BB02971,Delhi,Private,2011,True,False
+BB02972,Delhi,NGO/Charitable,1999,False,False
+BB02973,Delhi,NGO/Charitable,1998,False,False
+BB02974,Delhi,NGO/Charitable,2013,False,False
+BB02975,Delhi,Private,2017,True,False
+BB02976,Delhi,Government,2000,True,False
+BB02977,Delhi,Government,1996,False,False
+BB02978,Delhi,Government,2013,False,False
+BB02979,Delhi,NGO/Charitable,2007,True,False
+BB02980,Delhi,Government,2008,True,True
+BB02981,Delhi,Private,2017,True,False
+BB02982,Delhi,Government,2010,False,False
+BB02983,Delhi,Government,2015,True,False
+BB02984,Delhi,Government,2017,False,False
+BB02985,Delhi,Private,2013,True,False
+BB02986,Delhi,Private,2003,True,False
+BB02987,Delhi,Government,2013,True,False
+BB02988,Delhi,Private,2000,True,False
+BB02989,Delhi,Red Cross,1996,False,False
+BB02990,Delhi,Government,2007,True,False
+BB02991,Delhi,Private,2003,True,False
+BB02992,Delhi,Private,2010,False,False
+BB02993,Delhi,Private,2014,True,True
+BB02994,Delhi,Government,2007,False,False
+BB02995,Delhi,Government,2000,True,False
+BB02996,Delhi,Government,2007,True,False
+BB02997,Delhi,Private,1997,True,False
+BB02998,Jammu and Kashmir,Private,2014,False,True
+BB02999,Jammu and Kashmir,Private,2005,False,False
+BB03000,Jammu and Kashmir,Government,2008,True,True
+BB03001,Jammu and Kashmir,Private,2007,True,False
+BB03002,Jammu and Kashmir,Private,1997,True,False
+BB03003,Jammu and Kashmir,Private,1995,True,True
+BB03004,Jammu and Kashmir,Red Cross,2003,True,False
+BB03005,Jammu and Kashmir,NGO/Charitable,2017,True,True
+BB03006,Jammu and Kashmir,NGO/Charitable,2013,False,False
+BB03007,Jammu and Kashmir,Private,1998,True,False
+BB03008,Jammu and Kashmir,Private,2015,True,False
+BB03009,Jammu and Kashmir,NGO/Charitable,2013,False,False
+BB03010,Jammu and Kashmir,Government,2007,True,False
+BB03011,Jammu and Kashmir,NGO/Charitable,2011,True,False
+BB03012,Jammu and Kashmir,Private,2001,False,False
+BB03013,Jammu and Kashmir,NGO/Charitable,2006,False,False
+BB03014,Jammu and Kashmir,Private,1997,True,False
+BB03015,Jammu and Kashmir,Government,2004,False,True
+BB03016,Jammu and Kashmir,NGO/Charitable,1999,True,True
+BB03017,Jammu and Kashmir,NGO/Charitable,2004,False,False
+BB03018,Jammu and Kashmir,NGO/Charitable,2016,False,False
+BB03019,Jammu and Kashmir,Government,2016,True,False
+BB03020,Jammu and Kashmir,Private,2004,True,True
+BB03021,Jammu and Kashmir,Government,2018,False,False
+BB03022,Jammu and Kashmir,Government,2015,False,False
+BB03023,Jammu and Kashmir,Private,2004,True,False
+BB03024,Uttarakhand,NGO/Charitable,1995,True,False
+BB03025,Uttarakhand,Private,2005,False,False
+BB03026,Uttarakhand,Government,2012,True,True
+BB03027,Uttarakhand,Private,2017,False,False
+BB03028,Uttarakhand,Private,2006,True,False
+BB03029,Uttarakhand,Private,2008,False,False
+BB03030,Uttarakhand,Private,2009,True,False
+BB03031,Uttarakhand,Private,1998,False,False
+BB03032,Uttarakhand,Private,2016,True,True
+BB03033,Uttarakhand,Government,2010,True,False
+BB03034,Uttarakhand,Government,2018,True,False
+BB03035,Uttarakhand,NGO/Charitable,2008,True,False
+BB03036,Uttarakhand,Private,2018,True,False
+BB03037,Uttarakhand,Private,2017,False,False
+BB03038,Uttarakhand,Government,1999,True,False
+BB03039,Uttarakhand,Government,1996,True,True
+BB03040,Uttarakhand,Government,1997,False,False
+BB03041,Uttarakhand,Government,2000,True,False
+BB03042,Uttarakhand,NGO/Charitable,2005,True,False
+BB03043,Uttarakhand,Red Cross,2018,False,False
+BB03044,Uttarakhand,Government,2019,True,False
+BB03045,Uttarakhand,Government,2016,False,False
+BB03046,Uttarakhand,Red Cross,2001,True,False
+BB03047,Uttarakhand,Government,1997,True,False
+BB03048,Uttarakhand,Government,2004,True,False
+BB03049,Uttarakhand,Red Cross,2016,False,False
+BB03050,Uttarakhand,NGO/Charitable,2006,False,False
+BB03051,Uttarakhand,Government,2002,True,False
+BB03052,Himachal Pradesh,Private,2019,False,False
+BB03053,Himachal Pradesh,Government,2016,False,False
+BB03054,Himachal Pradesh,NGO/Charitable,2017,True,False
+BB03055,Himachal Pradesh,Red Cross,1998,False,False
+BB03056,Himachal Pradesh,Private,2008,True,False
+BB03057,Himachal Pradesh,NGO/Charitable,2016,False,False
+BB03058,Himachal Pradesh,Government,2004,False,False
+BB03059,Himachal Pradesh,Government,1997,False,False
+BB03060,Himachal Pradesh,Red Cross,2014,False,False
+BB03061,Himachal Pradesh,Red Cross,2000,True,False
+BB03062,Himachal Pradesh,Government,2010,True,False
+BB03063,Himachal Pradesh,Private,2009,True,False
+BB03064,Himachal Pradesh,Private,2019,False,False
+BB03065,Himachal Pradesh,Government,2016,True,False
+BB03066,Tripura,Government,2007,True,False
+BB03067,Tripura,NGO/Charitable,2008,False,False
+BB03068,Tripura,NGO/Charitable,2013,False,False
+BB03069,Tripura,Red Cross,2013,False,False
+BB03070,Tripura,NGO/Charitable,2010,False,False
+BB03071,Tripura,NGO/Charitable,2006,True,False
+BB03072,Tripura,Government,1999,True,False
+BB03073,Tripura,Private,2002,False,False
+BB03074,Tripura,NGO/Charitable,2004,False,False
+BB03075,Tripura,NGO/Charitable,2017,False,False
+BB03076,Tripura,Private,2015,True,False
+BB03077,Tripura,Private,2001,False,False
+BB03078,Tripura,NGO/Charitable,2009,True,False
+BB03079,Meghalaya,NGO/Charitable,2004,False,False
+BB03080,Meghalaya,Government,2005,True,False
+BB03081,Meghalaya,Government,2016,False,False
+BB03082,Meghalaya,NGO/Charitable,2013,True,False
+BB03083,Meghalaya,Private,2000,True,True
+BB03084,Meghalaya,Private,2012,False,False
+BB03085,Meghalaya,Private,2018,True,False
+BB03086,Manipur,NGO/Charitable,2011,False,False
+BB03087,Manipur,NGO/Charitable,2002,False,False
+BB03088,Manipur,Private,2012,True,False
+BB03089,Manipur,Private,2016,True,False
+BB03090,Manipur,Government,2012,False,False
+BB03091,Manipur,NGO/Charitable,2003,True,False
+BB03092,Manipur,Government,2002,True,False
+BB03093,Manipur,NGO/Charitable,2014,True,False
+BB03094,Manipur,Red Cross,2014,False,False
+BB03095,Nagaland,Private,1998,False,False
+BB03096,Nagaland,Private,2010,False,False
+BB03097,Nagaland,NGO/Charitable,2001,False,False
+BB03098,Goa,Private,2005,True,False
+BB03099,Goa,NGO/Charitable,1999,True,False
+BB03100,Goa,Private,1995,True,False
+BB03101,Arunachal Pradesh,Private,1997,True,False
+BB03102,Arunachal Pradesh,NGO/Charitable,2014,False,False
+BB03103,Arunachal Pradesh,Private,2011,False,False
+BB03104,Arunachal Pradesh,Government,2017,True,False
+BB03105,Puducherry,Private,2017,False,False
+BB03106,Puducherry,Private,2002,True,False
+BB03107,Chandigarh,Government,1999,False,True
